@@ -87,8 +87,8 @@ task genBundles << {
   def avatarDir = project.file(stagingDir + "/rsrc/avatars")
   avatarDir.mkdirs()
 
-  ant.metabundle(actiondef: "/home/dylan/dylansbang/assets/rsrc/avatars/actions.xml", 
-				 classdef: "/home/dylan/dylansbang/assets/rsrc/avatars/classes.xml",
+  ant.metabundle(actiondef: "/home/USER/dylansbang/assets/rsrc/avatars/actions.xml", 
+				 classdef: "/home/USER/dylansbang/assets/rsrc/avatars/classes.xml",
                  target: "${avatarDir}/metadata.jar")
 
   ant.taskdef(classpath: configurations.tools.asPath, name: "cbundle",
