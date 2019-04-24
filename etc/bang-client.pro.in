@@ -1,0 +1,135 @@
+#
+# $Id$
+#
+# Proguard configuration file for Bang! production client
+
+-libraryjars <java.home>/lib/rt.jar
+
+# -dontoptimize
+# -dontobfuscate
+
+-dontskipnonpubliclibraryclasses
+-printseeds ../dist/proguard.seeds
+@apply_mapping@ @apply_file@
+-printmapping ../etc/proguard/@version@.map
+-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable
+
+-dontwarn ca.beq.util.win32.registry.**
+-dontwarn com.google.inject.**
+-dontwarn com.jmex.font2d.**
+-dontwarn com.samskivert.depot.**
+-dontwarn com.samskivert.jdbc.**
+-dontwarn com.threerings.**.persist.**
+-dontwarn com.threerings.getdown.tools.Patcher
+-dontwarn com.threerings.presents.peer.**
+-dontwarn javax.annotation.**
+-dontwarn javax.mail.**
+-dontwarn net.java.games.input.**
+-dontwarn org.aopalliance.intercept.MethodInterceptor
+-dontwarn org.apache.log4j.**
+-dontwarn org.lwjgl.util.applet.LWJGLInstaller
+
+-keepnames class * implements java.io.Serializable
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    !static !transient <fields>;
+    private void writeObject (java.io.ObjectOutputStream);
+    private void readObject (java.io.ObjectInputStream);
+}
+
+-keep class * implements com.jme.util.export.Savable
+
+-keep public class * extends com.threerings.presents.dobj.DObject {
+    !static !transient <fields>;
+}
+-keep public class * implements com.threerings.io.Streamable {
+    !static !transient <fields>;
+    <init> ();
+    public void readObject (com.threerings.io.ObjectInputStream);
+    public void writeObject (com.threerings.io.ObjectOutputStream);
+}
+
+-keep public class * extends java.lang.Enum {
+    *;
+}
+
+-keep public class com.threerings.media.tile.SwissArmyTileSet
+-keep public class com.threerings.media.tile.TrimmedTileSet
+
+-keep public class * extends com.samskivert.swing.Controller {
+    *;
+}
+
+-keep public class * extends com.threerings.jme.model.ModelController {
+    *;
+}
+
+-keep public class com.threerings.bang.client.Config {
+    <fields>;
+}
+
+-keep public class com.threerings.bang.client.BangClient {
+    protected static <fields>;
+}
+
+# this should be included because it implements Serializable, but somehow is not
+-keep public class com.threerings.bang.avatar.util.BucklePartCatalog {
+    *;
+}
+
+# this also doesnshould be included because it implements Serializable
+-keep public class com.google.inject.spi.Message {
+    *;
+}
+
+-keep public class com.threerings.bang.client.BangApp {
+    public static void main (java.lang.String[]);
+}
+
+-keep public class com.threerings.bang.editor.EditorApp {
+    public static void main (java.lang.String[]);
+}
+
+-keep public class com.threerings.bang.editor.EditorManager {
+    *;
+}
+
+-keep public class com.threerings.bang.viewer.ViewerApp {
+    public static void main (java.lang.String[]);
+}
+
+-keep public class com.threerings.jme.tools.ModelViewer {
+    public static void main (java.lang.String[]);
+}
+
+-keep public class com.threerings.bang.data.Badge {
+    static <fields>;
+}
+
+-keep public class com.threerings.stats.data.Stat {
+    static <fields>;
+}
+
+-keep public class com.threerings.jme.tools.*Def** {
+    public *;
+}
+
+-keep public class com.threerings.bang.game.data.TutorialConfig** {
+    public *;
+}
+
+-keep public class com.threerings.jme.tools.xml.* {
+    public *;
+}
+
+# Prevent this interface from being nixed entirely
+-keep public interface com.threerings.stats.data.StatSet$Container {
+    public <methods>;
+}
+
+# Bug worky aroundy; Proguard is erroneously stripping all methods out of this
+# interface and -keepclassmembers doesn't seem to fix it only -keep
+-keep public interface com.threerings.media.util.AStarPathUtil$ExtendedTraversalPred {
+    public <methods>;
+}

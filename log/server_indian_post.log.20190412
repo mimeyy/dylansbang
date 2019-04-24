@@ -1,0 +1,40 @@
+2019/04/12 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/12 14:42:03:219 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:indian_post sid:2
+2019/04/12 14:44:48:749 session_end 3 ctime:166 node:indian_post
+2019/04/12 17:29:06:811 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/12 17:32:19:696 session_end 9 ctime:193 node:indian_post
+2019/04/12 17:34:57:310 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/12 17:40:02:106 session_end 9 ctime:305 node:indian_post
+2019/04/12 18:58:47:486 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/12 19:14:44:274 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/12 19:14:59:400 session_end 2 ctime:15 node:indian_post
+2019/04/12 20:21:09:893 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/12 20:21:11:508 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/12 20:21:26:433 session_end 20 ctime:17 node:indian_post
+2019/04/12 20:22:37:693 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/12 20:23:18:667 session_end 9 ctime:127 node:indian_post
+2019/04/12 20:24:30:267 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/12 20:36:41:575 game_ended t:490 g:SALOON s:fg ts:2 r:true a:true 20:@:1:121:none,9:@:0:132:HIGHEST_POINTS_1
+2019/04/12 20:47:07:421 game_ended t:550 g:SALOON s:fg ts:2 r:true a:true 20:@:1:141:none,9:@:0:153:TREES_SAVED_1
+2019/04/12 20:56:26:684 game_ended t:503 g:SALOON s:fg ts:2 r:true a:true 20:@:1:124:none,9:@:0:136:TREES_SAVED_3
+2019/04/12 20:57:16:658 session_end 9 ctime:1967 node:indian_post
+2019/04/12 20:58:26:389 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/12 21:07:01:569 game_ended t:491 g:SALOON s:fg ts:2 r:true a:true 20:@:0:143:TREES_SAVED_2,9:@:1:131:TREES_SAVED_4
+2019/04/12 21:16:17:627 game_ended t:514 g:SALOON s:fg ts:2 r:true a:true 20:@:0:136:none,9:@:1:124:GAMES_PLAYED_1
+2019/04/12 21:22:11:028 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:indian_post sid:2
+2019/04/12 21:30:51:924 game_ended t:522 g:SALOON s:fg ts:2 r:true a:true 20:@:0:136:CARDS_PLAYED_1,9:@:1:124:BETA_TESTER
+2019/04/12 21:41:32:415 game_ended t:569 g:SALOON s:fg ts:2 r:true a:true 3:@:0:128:DISTANCE_MOVED_1,20:@:1:122:none,9:@:2:110:BONUSES_COLLECTED_4
+2019/04/12 21:54:11:227 game_ended t:632 g:SALOON s:fg ts:2 r:true a:true 3:@:0:139:GAMES_PLAYED_2,20:@:2:122:none,9:@:1:133:none
+2019/04/12 22:05:10:441 game_ended t:605 g:SALOON s:fg ts:2 r:true a:true 3:@:2:109:TREES_SAVED_3,9:@:0:137:DISTANCE_MOVED_1,20:@:1:125:none
+2019/04/12 22:15:27:435 game_ended t:565 g:SALOON s:fg ts:2 r:true a:true 9:@:0:147:GAMES_PLAYED_2,3:@:2:119:DUDS_BOUGHT_1,20:@:1:136:SHOTS_FIRED_1
+2019/04/12 22:25:44:700 game_ended t:560 g:SALOON s:fg ts:2 r:true a:true 9:@:1:138:none,3:@:2:121:none,20:@:0:150:none
+2019/04/12 22:27:20:822 session_end 3 ctime:3910 node:indian_post
+2019/04/12 22:27:49:449 session_end 9 ctime:5363 node:indian_post
+2019/04/12 22:28:54:974 session_end 20 ctime:7577 node:indian_post
+2019/04/12 22:46:14:226 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/12 22:47:44:190 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/12 22:52:58:283 session_end 20 ctime:404 node:indian_post
+2019/04/12 23:03:50:792 session_end 18 ctime:503 node:indian_post
+2019/04/12 23:14:22:126 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/12 23:15:36:282 session_end 18 ctime:74 node:indian_post
+2019/04/13 00:00:00:020 log_closed

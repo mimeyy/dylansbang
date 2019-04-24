@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+
+<tutorial ident="new_bigshots" board="The Ancients" players="2" respawn="false" card="lightning">
+  <show_view name="player_status"/>
+
+  <!-- start them off with a friendly welcome -->
+  <text message="welcome" step="1" avatar="units/indian_post/revolutionary/portrait.png"/>
+  <wait event="text_clicked"/>
+
+  <!-- add revolutionary -->
+  <add_piece what="unit" id="1000" type="indian_post/revolutionary"
+             location="26,13" owner="0"/>
+  <center_on what="piece" id="1000"/>
+
+  <!-- introduce revolutionary -->
+  <text message="intro" step="2"/>
+  <wait event="text_clicked"/>
+
+  <text message="weapons"/>
+  <wait event="text_clicked"/>
+
+  <!-- add enemy buffalo -->
+  <add_piece what="unit" id="2001" type="indian_post/buffalo_rider"
+             location="24,13" owner="1"/>
+  <center_on what="piece" id="2001"/>
+
+  <!-- force place of attack -->
+  <text message="attack"/>
+  <wait event="effect:bang" allowAttack="25,13"/>
+
+  <!-- enemy flees, spawn in your Dog Soldier and attack-->
+  <move_unit id="2001" location="23,17"/>
+
+  <!-- add your dog soldier -->
+  <add_piece what="unit" id="1001" type="indian_post/dogsoldier"
+             location="23,13" owner="0"/>
+
+  <text message="offense"/>
+  <wait event="effect:bang" allowAttack="23,17"/>
+
+  <text message="icon"/>
+  <wait event="text_clicked"/>
+
+  <!-- add two enemy dirigibles -->
+  <add_piece what="unit" id="2002" type="frontier_town/dirigible"
+             location="22,14" owner="1"/>
+  <add_piece what="unit" id="2003" type="frontier_town/dirigible"
+             location="22,13" owner="1"/>
+
+  <text message="martyr"/>
+  <wait event="text_clicked"/>
+
+  <!-- one dirigibe gets a rambin bonus -->
+  <add_piece what="bonus" id="3001" type="frontier_town/ramblin"
+             location="25,14"/>
+
+  <!-- enemies both attack to kill the Revolutionary-->
+  <move_unit id="2002" location="25,14" target="1000"/>
+  <move_unit id="2003" location="24,13" target="1000"/>
+
+  <wait event="unit_killed" id="1000"/>
+
+  <!-- add stormcaller -->
+  <add_piece what="unit" id="1002" type="indian_post/stormcaller"
+             location="27,12" owner="0"/>
+  <center_on what="piece" id="1002"/>
+
+  <text message="stormy" step="3" avatar="units/indian_post/stormcaller/portrait.png"/>
+  <wait event="text_clicked"/>
+
+  <!-- enemies attack the dog soldier and move close-->
+  <move_unit id="2002" location="24,17"/>
+  <move_unit id="2003" location="24,16" target="1001"/>
+
+  <text message="stormy2"/>
+  <wait event="effect:bang" id="2003" allowAttack="24,16"/>
+
+  <!-- one dirigible flees, with the help of a rambin bonus -->
+  <move_unit id="2002" location="23,20"/>
+
+  <text message="stormy3"/>
+  <wait event="text_clicked"/>
+
+  <!-- other dirigible moves closer to sc -->
+  <move_unit id="2003" location="22,15"/>
+
+  <!-- last dirigible flees more-->
+  <move_unit id="2002" location="20,21"/>
+
+  <text message="stormy4"/>
+  <wait event="unit_killed" id="2003" allowAttack="0"/>
+
+  <text message="stormy5"/>
+  <wait event="text_clicked"/>
+
+  <!-- last dirigible flees more-->
+  <move_unit id="2002" location="16,21"/>
+
+  <!-- add the trickster -->
+  <add_piece what="unit" id="1003" type="indian_post/tricksterraven"
+             location="25,17" owner="0"/>
+  <center_on what="piece" id="1003"/>
+
+  <text message="tricky" step="4" avatar="units/indian_post/tricksterraven/portrait.png"/>
+  <wait event="text_clicked"/>
+
+  <!-- last dirigible flees more-->
+  <move_unit id="2002" location="14,22"/>
+
+  <!-- show them a teleporter -->
+  <center_on what="special" id="2521"/>
+
+  <text message="teleporter"/>
+  <wait event="text_clicked"/>
+
+  <text message="teleport"/>
+  <wait event="effect:indian_post/teleported"/>
+
+  <!-- show where you teleported to, and kill last dirgy-->
+  <center_on what="piece" id="1003"/>
+  <text message="revenge"/>
+  <wait event="effect:bang" allowAttack="0"/>
+
+  <text message="done" step="5"/>
+  <wait event="text_clicked"/>
+
+</tutorial>

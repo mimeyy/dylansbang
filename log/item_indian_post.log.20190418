@@ -1,0 +1,11 @@
+2019/04/18 00:00:00:001 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/18 00:11:08:840 item_created id:762 oid:9 type:com.threerings.bang.data.Article
+2019/04/18 00:11:08:867 store_purchase 9 t:ArticleGood s:1800 c:0
+2019/04/18 00:11:59:711 item_created id:763 oid:9 type:com.threerings.bang.data.Article
+2019/04/18 00:11:59:738 store_purchase 9 t:ArticleGood s:2500 c:0
+2019/04/18 00:12:10:163 item_created id:764 oid:9 type:com.threerings.bang.data.Article
+2019/04/18 00:12:10:190 store_purchase 9 t:ArticleGood s:1000 c:0
+2019/04/18 00:14:23:942 barber_purchase 9 t:Look s:1575 c:0
+2019/04/18 21:49:59:758 item_deleted id:757 why:played_last_card
+2019/04/18 21:49:59:808 item_deleted id:752 why:played_last_card
+2019/04/19 00:00:00:000 log_closed

@@ -1,0 +1,28 @@
+2019/03/29 15:59:52:093 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/29 16:00:53:627 item_created id:42 oid:3 type:com.threerings.bang.data.Article
+2019/03/29 16:00:53:654 store_purchase 3 t:ArticleGood s:1600 c:0
+2019/03/29 16:01:19:073 item_created id:43 oid:2 type:com.threerings.bang.data.Purse
+2019/03/29 16:01:19:101 store_purchase 2 t:PurseGood s:3000 c:0
+2019/03/29 16:01:21:130 item_created id:44 oid:2 type:com.threerings.bang.data.Star
+2019/03/29 16:01:21:157 store_purchase 2 t:StarGood s:1000 c:0
+2019/03/29 16:01:23:494 item_created id:45 oid:2 type:com.threerings.bang.data.Star
+2019/03/29 16:01:23:522 store_purchase 2 t:StarGood s:2000 c:0
+2019/03/29 16:01:59:840 item_created id:46 oid:2 type:com.threerings.bang.data.UnitPass
+2019/03/29 16:01:59:874 store_purchase 2 t:UnitPassGood s:1000 c:0
+2019/03/29 16:02:37:063 item_created id:47 oid:2 type:com.threerings.bang.data.Star
+2019/03/29 16:02:37:090 store_purchase 2 t:StarGood s:3000 c:0
+2019/03/29 16:51:44:218 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/30 12:49:25:887 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/30 12:49:33:988 log_closed
+2019/03/31 15:19:53:509 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 16:52:31:658 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 17:39:35:408 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 17:56:00:463 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 22:55:58:242 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 23:09:09:848 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 23:11:54:048 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/03/31 23:13:41:944 item_created id:185 oid:2 type:com.threerings.bang.data.Article
+2019/03/31 23:13:41:972 store_purchase 2 t:ArticleGood s:2000 c:0
+2019/03/31 23:14:30:467 item_created id:186 oid:2 type:com.threerings.bang.data.Article
+2019/03/31 23:14:30:495 store_purchase 2 t:ArticleGood s:1250 c:0
+2019/04/01 00:00:00:003 log_closed

@@ -1,0 +1,18 @@
+2019/04/13 00:00:00:020 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/13 01:18:03:646 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:indian_post sid:2
+2019/04/13 01:18:14:017 session_end 6 ctime:10 node:indian_post
+2019/04/13 22:15:13:848 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/13 22:21:58:666 session_end 20 ctime:405 node:indian_post
+2019/04/13 22:22:14:292 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/13 22:23:07:164 session_end 20 ctime:53 node:indian_post
+2019/04/13 22:23:30:797 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/13 22:23:49:841 session_end 20 ctime:19 node:indian_post
+2019/04/13 22:24:54:394 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/13 22:25:57:604 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/13 22:34:17:344 session_end 9 ctime:500 node:indian_post
+2019/04/13 22:34:43:303 session_start 9 ip:/107.204.21.247 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/13 22:43:02:553 game_ended t:474 g:SALOON s:fg ts:2 r:true a:true 20:@:0:155:none,9:@:1:144:DUDS_BOUGHT_1
+2019/04/13 22:53:49:567 game_ended t:595 g:SALOON s:fg ts:2 r:true a:true 20:@:0:145:none,9:@:1:133:none
+2019/04/13 22:54:30:064 session_end 20 ctime:1776 node:indian_post
+2019/04/13 22:54:38:908 session_end 9 ctime:1196 node:indian_post
+2019/04/14 00:00:00:001 log_closed

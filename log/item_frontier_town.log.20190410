@@ -1,0 +1,77 @@
+2019/04/10 00:00:00:004 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/10 15:07:01:964 store_purchase 4 t:CardPackGood s:0 c:0
+2019/04/10 15:07:03:415 item_created id:526 oid:4 type:com.threerings.bang.data.CardItem
+2019/04/10 15:07:03:693 store_purchase 4 t:CardPackGood s:0 c:0
+2019/04/10 15:07:05:594 store_purchase 4 t:CardPackGood s:0 c:0
+2019/04/10 15:07:07:642 store_purchase 4 t:CardPackGood s:0 c:0
+2019/04/10 15:07:19:354 store_purchase 4 t:CardPackGood s:0 c:0
+2019/04/10 15:07:48:158 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/10 15:07:50:147 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/10 15:07:52:032 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/10 15:07:53:895 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/10 15:07:55:498 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/10 15:34:53:952 item_created id:530 oid:17 type:com.threerings.bang.data.Article
+2019/04/10 15:36:04:193 item_created id:531 oid:17 type:com.threerings.bang.data.BigShotItem
+2019/04/10 15:36:04:219 ranch_purchase 17 t:BigShot s:4000 c:0
+2019/04/10 15:36:15:803 item_created id:532 oid:17 type:com.threerings.bang.data.BigShotItem
+2019/04/10 15:36:15:829 ranch_purchase 17 t:BigShot s:4000 c:0
+2019/04/10 15:36:26:273 item_created id:533 oid:17 type:com.threerings.bang.data.Purse
+2019/04/10 15:36:26:300 store_purchase 17 t:PurseGood s:1500 c:0
+2019/04/10 15:36:28:291 item_created id:534 oid:17 type:com.threerings.bang.data.UnitPass
+2019/04/10 15:36:28:318 store_purchase 17 t:UnitPassGood s:1000 c:0
+2019/04/10 15:36:31:191 item_created id:535 oid:17 type:com.threerings.bang.data.UnitPass
+2019/04/10 15:36:31:218 store_purchase 17 t:UnitPassGood s:1000 c:0
+2019/04/10 15:36:34:510 item_created id:536 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:571 item_created id:537 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:632 item_created id:538 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:693 item_created id:539 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:754 item_created id:540 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:814 item_created id:541 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:875 item_created id:542 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:937 item_created id:543 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:34:998 item_created id:544 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:059 item_created id:545 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:121 item_created id:546 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:183 item_created id:547 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:244 item_created id:548 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:305 item_created id:549 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:366 item_created id:550 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:425 item_created id:551 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:486 item_created id:552 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:545 item_created id:553 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:605 item_created id:554 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:667 item_created id:555 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:35:695 store_purchase 17 t:CardPackGood s:520 c:0
+2019/04/10 15:36:36:624 item_created id:556 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:36:786 item_created id:557 oid:17 type:com.threerings.bang.data.CardItem
+2019/04/10 15:36:37:599 store_purchase 17 t:CardPackGood s:520 c:0
+2019/04/10 15:36:39:822 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:41:280 store_purchase 17 t:CardTripletGood s:40 c:0
+2019/04/10 15:36:43:160 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:43:573 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:44:042 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:47:080 store_purchase 17 t:CardTripletGood s:40 c:0
+2019/04/10 15:36:47:537 store_purchase 17 t:CardTripletGood s:40 c:0
+2019/04/10 15:36:50:037 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:50:593 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:36:51:071 store_purchase 17 t:CardTripletGood s:30 c:0
+2019/04/10 15:37:00:882 store_purchase 17 t:CardPackGood s:520 c:0
+2019/04/10 15:37:04:138 store_purchase 17 t:CardPackGood s:130 c:0
+2019/04/10 15:37:05:246 store_purchase 17 t:CardPackGood s:130 c:0
+2019/04/10 15:37:06:366 store_purchase 17 t:CardPackGood s:130 c:0
+2019/04/10 15:37:07:911 store_purchase 17 t:CardPackGood s:130 c:0
+2019/04/10 15:38:36:448 item_created id:558 oid:17 type:com.threerings.bang.data.Article
+2019/04/10 15:38:36:475 store_purchase 17 t:ArticleGood s:350 c:0
+2019/04/10 15:38:44:376 item_created id:559 oid:17 type:com.threerings.bang.data.Article
+2019/04/10 15:38:44:403 store_purchase 17 t:ArticleGood s:1000 c:0
+2019/04/10 15:40:06:330 item_created id:560 oid:17 type:com.threerings.bang.data.Article
+2019/04/10 15:40:06:370 store_purchase 17 t:ArticleGood s:3800 c:0
+2019/04/10 15:41:16:111 barber_purchase 17 t:Look s:2200 c:0
+2019/04/10 16:04:47:994 item_created id:564 oid:22 type:com.threerings.bang.data.BigShotItem
+2019/04/10 19:10:38:596 item_created id:565 oid:17 type:com.threerings.bang.data.Badge
+2019/04/10 19:10:38:894 item_created id:566 oid:15 type:com.threerings.bang.data.Badge
+2019/04/10 19:25:48:106 item_deleted id:313 why:played_last_card
+2019/04/10 19:33:34:544 item_created id:567 oid:17 type:com.threerings.bang.data.Badge
+2019/04/10 19:39:45:560 item_created id:568 oid:17 type:com.threerings.bang.data.Badge
+2019/04/10 19:39:45:799 item_created id:569 oid:15 type:com.threerings.bang.data.Badge
+2019/04/11 00:00:00:000 log_closed

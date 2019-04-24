@@ -1,0 +1,24 @@
+2019/04/08 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/08 15:25:36:005 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/08 15:26:13:505 session_end 2 ctime:38 node:indian_post
+2019/04/08 15:27:02:796 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/08 15:27:17:400 session_end 2 ctime:15 node:indian_post
+2019/04/08 16:48:00:297 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/08 16:49:55:720 session_end 18 ctime:116 node:indian_post
+2019/04/08 16:50:11:253 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/08 16:50:21:931 session_end 18 ctime:11 node:indian_post
+2019/04/08 16:50:57:514 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/08 16:59:02:274 session_end 18 ctime:485 node:indian_post
+2019/04/08 19:29:36:786 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/08 19:45:59:196 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/08 19:46:37:407 game_ended t:20 g:SALOON s:fg ts:2 r:true a:true 20:@:0:0:DUDS_BOUGHT_1,18:#:1:0:DUDS_BOUGHT_1
+2019/04/08 19:46:47:770 session_end 18 ctime:49 node:indian_post
+2019/04/08 19:47:30:651 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/08 19:58:08:026 game_ended t:559 g:SALOON s:fg ts:2 r:true a:true 20:@:0:147:HIGHEST_POINTS_1,18:@:1:118:TREES_SAVED_1
+2019/04/08 20:10:11:434 game_ended t:617 g:SALOON s:fg ts:2 r:true a:true 20:@:1:135:TREES_SAVED_1,18:@:0:127:HIGHEST_POINTS_1
+2019/04/08 20:19:12:597 game_ended t:452 g:SALOON s:fg ts:2 r:true a:true 20:@:1:129:TREES_SAVED_3,18:@:0:122:BONUSES_COLLECTED_4
+2019/04/08 20:20:42:561 session_end 18 ctime:1992 node:indian_post
+2019/04/08 20:20:44:335 session_end 20 ctime:3068 node:indian_post
+2019/04/08 21:31:24:461 session_start 15 ip:/81.154.168.41 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/08 21:31:34:519 session_end 15 ctime:10 node:indian_post
+2019/04/09 00:00:00:001 log_closed

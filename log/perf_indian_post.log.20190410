@@ -1,0 +1,10 @@
+2019/04/10 00:00:00:004 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/10 15:23:35:750 client_perf u:4 b:a1e62900e74acdd0e63a4757d2f907a4 d:ATI Technologies Inc., Radeon RX 580 Series, 4.6.13547 Compatibility Profile Context 25.20.15027.1003 h:(0, 0, 2, 0, 6, 266, 295)
+2019/04/10 15:23:35:834 client_perf u:20 b:a1e62900e74acdd0e63a4757d2f907a4 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 1, 4, 12, 37, 334, 181)
+2019/04/10 15:33:37:340 client_perf u:4 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:ATI Technologies Inc., Radeon RX 580 Series, 4.6.13547 Compatibility Profile Context 25.20.15027.1003 h:(0, 0, 0, 1, 2, 228, 270)
+2019/04/10 15:33:37:394 client_perf u:20 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 0, 1, 378, 122)
+2019/04/10 15:45:03:583 client_perf u:4 b:d2f7c46826d4a21043c0e2fe58c322cd d:ATI Technologies Inc., Radeon RX 580 Series, 4.6.13547 Compatibility Profile Context 25.20.15027.1003 h:(0, 0, 0, 2, 5, 243, 237)
+2019/04/10 15:45:03:601 client_perf u:20 b:d2f7c46826d4a21043c0e2fe58c322cd d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 0, 1, 348, 138)
+2019/04/10 15:55:48:666 client_perf u:4 b:2b79f8cf0a09b773026333e78b7373dc d:ATI Technologies Inc., Radeon RX 580 Series, 4.6.13547 Compatibility Profile Context 25.20.15027.1003 h:(0, 0, 0, 0, 7, 190, 234)
+2019/04/10 15:55:48:714 client_perf u:20 b:2b79f8cf0a09b773026333e78b7373dc d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 0, 1, 311, 119)
+2019/04/11 00:00:00:001 log_closed

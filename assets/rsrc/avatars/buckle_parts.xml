@@ -1,0 +1,166 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- $Id$ -->
+
+<parts>
+  <!-- buckle backgrounds -->
+  <class name="background">
+    <part name="fountain" colors="buckle_back_p" coins="2" aces="100"/>
+    <part name="oval" coins="4" aces="450"/>
+    <part name="plain" colors="buckle_back_p" coins="1" aces="50" starter="true"/>
+    <part name="swirls" colors="buckle_back_p" coins="2" aces="100"/>
+    <part name="tris" coins="6" aces="500"/>
+    <part name="bullzeye" coins="5" aces="500"/>
+    <part name="checker" coins="4" aces="400"/>
+    <part name="swirls2" colors="buckle_back_p" coins="3" aces="300"/>
+    <part name="swirls3" colors="buckle_back_p" coins="3" aces="250"/>
+    <part name="clockwork" colors="buckle_back_p" coins="3" aces="400"/>
+    <part name="design" coins="5" aces="450"/>
+    <part name="rattlers" colors="buckle_back_p" coins="3" aces="350"/>
+    <part name="top" coins="4" aces="450"/>
+    <part name="sunrise" coins="4" aces="500"/>
+    <part name="radiate" coins="4" aces="450"/>
+  </class>
+
+  <!-- buckle borders -->
+  <class name="border">
+    <part name="frill_rect" coins="2" aces="150"/>
+    <part name="rope_oval" coins="1" aces="50" starter="true"/>
+    <part name="rope_shape" coins="3" aces="200"/>
+    <part name="four_corners" coins="4" aces="500"/>
+    <part name="four_corners_studs" coins="5" aces="500"/>
+    <part name="round_2_gears" coins="6" aces="600"/>
+    <part name="round_2_studs" coins="4" aces="500"/>
+    <part name="round_10_studs" coins="5" aces="550"/>
+    <part name="scrolls" coins="6" aces="550"/>
+    <part name="barbed_wire" coins="6" aces="500"/>
+    <part name="mech_chain" coins="5" aces="400"/>
+    <part name="rattler" coins="6" aces="500"/>
+    <part name="cornered" coins="3" aces="200"/>
+    <part name="classic" coins="3" aces="200"/>
+    <part name="gilded" coins="5" aces="550"/>
+  </class>
+
+  <!-- buckle icons -->
+  <class name="icon">
+    <part name="axe_left" coins="4" aces="250"/>
+    <part name="axe_right" coins="4" aces="250"/>
+    <part name="axe_right_sm" coins="2" aces="150"/>
+    <part name="axe_left_sm" coins="2" aces="150"/>
+    <part name="bull_head" coins="4" aces="350"/>
+    <part name="bull_head_sm" coins="3" aces="250"/>
+    <part name="bull_skull" coins="5" aces="500"/>
+    <part name="bull_skull_sm" coins="3" aces="300"/>
+    <part name="buffalo_left" coins="5" aces="500"/>
+    <part name="buffalo_right" coins="5" aces="500"/>
+    <part name="eagle_swoop" coins="6" aces="550"/>
+    <part name="feather_left" coins="2" aces="150"/>
+    <part name="feather_right" coins="2" aces="150"/>
+    <part name="feather_left_sm" coins="1" aces="100"/>
+    <part name="feather_right_sm" coins="1" aces="100"/>
+    <part name="feather_up_left" coins="2" aces="150"/>
+    <part name="feather_up_right" coins="2" aces="150"/>
+    <part name="feather_up_left_sm" coins="1" aces="100"/>
+    <part name="feather_up_right_sm" coins="1" aces="100"/>
+    <part name="flower_sm" coins="2" aces="200"/>
+    <part name="flower_tiny" coins="1" aces="100"/>
+    <part name="hat_left" coins="2" aces="200"/>
+    <part name="hat_right" coins="2" aces="200"/>
+    <part name="headdress_left" coins="5" aces="600"/>
+    <part name="headdress_right" coins="5" aces="600"/>
+    <part name="headdress_left_sm" coins="4" aces="400"/>
+    <part name="headdress_right_sm" coins="4" aces="400"/>
+    <part name="horse_run_left" coins="6" aces="650"/>
+    <part name="horse_run_right" coins="6" aces="650"/>
+    <part name="horse_run_right_sm" coins="4" aces="450"/>
+    <part name="horse_run_left_sm" coins="4" aces="450"/>
+    <part name="horse_rearing_left" coins="6" aces="650"/>
+    <part name="horse_rearing_right" coins="6" aces="650"/>
+    <part name="horse_rearing_right_sm" coins="4" aces="450"/>
+    <part name="horse_rearing_left_sm" coins="4" aces="450"/>
+    <part name="horseshoe" coins="4" aces="400"/>
+    <part name="horseshoe_pair" coins="5" aces="450"/>
+    <part name="horseshoe_sm" coins="3" aces="300"/>
+    <part name="horseshoe_left_sm" coins="3" aces="300"/>
+    <part name="horseshoe_right_sm" coins="3" aces="300"/>
+    <part name="thunderbird_front" coins="8" aces="700"/>
+    <part name="thunderbird_head_left" coins="6" aces="500"/>
+    <part name="thunderbird_head_right" coins="6" aces="500"/>
+    <part name="trickster_mask" coins="5" aces="500"/>
+    <part name="totem_eagle" coins="5" aces="500"/>
+    <part name="totem_orca" coins="5" aces="400"/>
+    <part name="star_small" coins="2" aces="100"/>
+    <part name="star_tiny" coins="1" aces="75"/>
+    <part name="gear_fat_sm" coins="3" aces="250"/>
+    <part name="hole_key_sm" coins="2" aces="300"/>
+    <part name="screw_single_sm" coins="1" aces="20"/>
+    <part name="star_nubs_tiny" coins="1" aces="75"/>
+    <part name="suit_club_tiny" coins="1" aces="75"/>
+    <part name="suit_diamond_tiny" coins="1" aces="75"/>
+    <part name="suit_heart_tiny" coins="1" aces="75"/>
+    <part name="suit_spade_tiny" coins="1" aces="75"/>
+    <part name="gear_tiny" coins="1" aces="100"/>
+    <part name="warrior_shield" coins="8" aces="700"/>
+    <part name="chamber" coins="6" aces="550"/>
+    <part name="counter" coins="5" aces="450"/>
+    <part name="gear_fat" coins="6" aces="500"/>
+    <part name="hole_bullet" coins="4" aces="300"/>
+    <part name="hole_key" coins="4" aces="450"/>
+    <part name="screw_double" coins="2" aces="100"/>
+    <part name="screw_single" coins="1" aces="75"/>
+    <part name="star_nubs" coins="3" aces="400"/>
+    <part name="suit_club" coins="4" aces="400"/>
+    <part name="suit_heart" coins="4" aces="400"/>
+    <part name="suit_spade" coins="4" aces="400"/>
+    <part name="suit_diamond" coins="4" aces="400"/>
+    <part name="star_nubs_sm" coins="2" aces="150"/>
+    <part name="suit_club_sm" coins="2" aces="200"/>
+    <part name="suit_heart_sm" coins="2" aces="200"/>
+    <part name="suit_spade_sm" coins="2" aces="200"/>
+    <part name="suit_diamond_sm" coins="2" aces="200"/>
+    <part name="bear" coins="6" aces="650"/>
+    <part name="bear_right_sm" coins="4" aces="450"/>
+    <part name="bear_left_sm" coins="4" aces="450"/>
+    <part name="bear_claw_left" coins="5" aces="550"/>
+    <part name="bear_claw_right" coins="5" aces="550"/>
+    <part name="bear_claw_right_sm" coins="3" aces="350"/>
+    <part name="bear_claw_left_sm" coins="3" aces="350"/>
+    <part name="dear_left" coins="5" aces="550"/>
+    <part name="dear_right" coins="5" aces="550"/>
+    <part name="dear_right_sm" coins="3" aces="350"/>
+    <part name="dear_left_sm" coins="3" aces="350"/>
+    <part name="washer" coins="1" aces="50"/>
+    <part name="banner" coins="1" aces="100"/>
+    <part name="boot" coins="2" aces="300"/>
+    <part name="bullet" coins="2" aces="300"/>
+    <part name="cloud" coins="2" aces="200"/>
+    <part name="iron_plate" coins="3" aces="300"/>
+    <part name="lasso" coins="3" aces="300"/>
+    <part name="rabbit" coins="3" aces="300"/>
+    <part name="snake" coins="3" aces="300"/>
+    <part name="watch" coins="3" aces="300"/>
+    <part name="gun_crossed_02_left" coins="2" aces="150"/>
+    <part name="gun_crossed_02_right" coins="2" aces="150"/>
+    <part name="gun_crossed_left" coins="2" aces="150"/>
+    <part name="gun_crossed_right" coins="2" aces="150"/>
+    <part name="gun_left" coins="2" aces="150"/>
+    <part name="gun_right" coins="2" aces="150"/>
+    <part name="rose_left" coins="3" aces="250"/>
+    <part name="rose_right" coins="3" aces="250"/>
+    <part name="rose_tilt_left" coins="3" aces="250"/>
+    <part name="rose_tilt_right" coins="3" aces="250"/>
+    <part name="scorpy_left" coins="3" aces="500"/>
+    <part name="scorpy_right" coins="3" aces="500"/>
+    <part name="scorpy_small_a" coins="2" aces="150"/>
+    <part name="scorpy_small_b" coins="2" aces="150"/>
+    <part name="scorpy_small_left_a" coins="2" aces="150"/>
+    <part name="scorpy_small_left_b" coins="2" aces="150"/>
+    <part name="scorpy_small_right_a" coins="2" aces="150"/>
+    <part name="scorpy_small_right_b" coins="2" aces="150"/>
+    <part name="wrench_crossed_02_left" coins="3" aces="300"/>
+    <part name="wrench_crossed_02_right" coins="3" aces="300"/>
+    <part name="wrench_crossed_left" coins="3" aces="300"/>
+    <part name="wrench_crossed_right" coins="3" aces="300"/>
+    <part name="wrench_left" coins="3" aces="300"/>
+    <part name="wrench_right" coins="3" aces="300"/>
+  </class>
+</parts>

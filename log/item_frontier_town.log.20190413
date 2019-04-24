@@ -1,0 +1,4 @@
+2019/04/13 00:00:00:021 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/13 22:34:34:225 item_created id:660 oid:9 type:com.threerings.bang.data.CardItem
+2019/04/13 22:34:34:513 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/14 00:00:00:001 log_closed

@@ -1,0 +1,23 @@
+2019/04/18 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/18 00:06:46:502 game_ended t:473 g:SALOON s:fg ts:2 r:true a:true 20:@:0:153:none,9:@:1:141:none
+2019/04/18 00:08:01:440 session_end 20 ctime:5845 node:indian_post
+2019/04/18 00:08:03:258 session_end 9 ctime:5294 node:indian_post
+2019/04/18 00:10:07:890 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/18 00:18:02:913 session_end 9 ctime:475 node:indian_post
+2019/04/18 21:00:41:188 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/18 21:01:13:411 session_end 20 ctime:32 node:indian_post
+2019/04/18 21:01:27:489 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/18 21:01:40:942 session_end 20 ctime:14 node:indian_post
+2019/04/18 21:02:31:915 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/18 21:07:02:386 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/18 21:17:57:559 game_ended t:526 g:SALOON s:fg ts:2 r:true a:true 20:@:0:144:none,9:@:1:132:none
+2019/04/18 21:29:02:814 game_ended t:560 g:SALOON s:fg ts:2 r:true a:true 9:@:1:132:none,20:@:0:144:none
+2019/04/18 21:38:25:183 game_ended t:493 g:SALOON s:fg ts:2 r:true a:true 20:@:1:132:none,9:@:0:144:none
+2019/04/18 21:49:59:528 game_ended t:558 g:SALOON s:fg ts:2 r:true a:true 20:@:0:144:none,9:@:1:132:none
+2019/04/18 21:51:32:733 session_end 9 ctime:2671 node:indian_post
+2019/04/18 21:52:39:985 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/18 22:00:53:708 game_ended t:482 g:SALOON s:fg ts:2 r:true a:true 20:@:0:138:none,9:@:1:127:none
+2019/04/18 22:10:55:268 game_ended t:517 g:SALOON s:fg ts:2 r:true a:true 20:@:1:129:none,9:@:0:140:none
+2019/04/18 22:12:14:170 session_end 20 ctime:4182 node:indian_post
+2019/04/18 22:12:17:142 session_end 9 ctime:1177 node:indian_post
+2019/04/19 00:00:00:000 log_closed

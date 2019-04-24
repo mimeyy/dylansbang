@@ -1,0 +1,11 @@
+2019/04/09 00:00:00:001 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/09 11:19:04:719 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/09 15:36:49:181 item_created id:518 oid:18 type:com.threerings.bang.data.Badge
+2019/04/09 15:36:49:408 item_created id:519 oid:20 type:com.threerings.bang.data.Badge
+2019/04/09 15:46:01:331 item_created id:520 oid:18 type:com.threerings.bang.data.Badge
+2019/04/09 15:46:01:547 item_created id:521 oid:20 type:com.threerings.bang.data.Badge
+2019/04/09 15:57:14:044 item_created id:522 oid:20 type:com.threerings.bang.data.Badge
+2019/04/09 15:57:14:263 item_created id:523 oid:18 type:com.threerings.bang.data.Badge
+2019/04/09 16:09:44:773 item_created id:524 oid:20 type:com.threerings.bang.data.Badge
+2019/04/09 17:56:19:567 item_created id:525 oid:18 type:com.threerings.bang.data.Badge
+2019/04/10 00:00:00:004 log_closed

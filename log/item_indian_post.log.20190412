@@ -1,0 +1,50 @@
+2019/04/12 00:00:00:001 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/12 14:43:47:034 item_created id:586 oid:3 type:com.threerings.bang.data.Article
+2019/04/12 14:43:47:062 store_purchase 3 t:ArticleGood s:0 c:0
+2019/04/12 14:44:19:709 item_created id:587 oid:3 type:com.threerings.bang.data.Article
+2019/04/12 14:44:19:737 store_purchase 3 t:ArticleGood s:0 c:0
+2019/04/12 17:32:12:597 item_created id:588 oid:9 type:com.threerings.bang.data.Article
+2019/04/12 17:37:38:312 barber_purchase 9 t:Look s:1725 c:0
+2019/04/12 17:37:47:010 item_created id:595 oid:9 type:com.threerings.bang.data.Star
+2019/04/12 17:37:47:037 store_purchase 9 t:StarGood s:1000 c:0
+2019/04/12 17:37:49:675 item_created id:596 oid:9 type:com.threerings.bang.data.Star
+2019/04/12 17:37:49:705 store_purchase 9 t:StarGood s:2000 c:0
+2019/04/12 17:37:52:087 item_created id:597 oid:9 type:com.threerings.bang.data.Star
+2019/04/12 17:37:52:115 store_purchase 9 t:StarGood s:3000 c:0
+2019/04/12 17:37:54:359 item_created id:598 oid:9 type:com.threerings.bang.data.Purse
+2019/04/12 17:37:54:389 store_purchase 9 t:PurseGood s:3000 c:0
+2019/04/12 17:37:57:326 item_created id:599 oid:9 type:com.threerings.bang.data.UnitPass
+2019/04/12 17:37:57:355 store_purchase 9 t:UnitPassGood s:1000 c:0
+2019/04/12 17:39:38:598 item_created id:600 oid:9 type:com.threerings.bang.data.Article
+2019/04/12 17:39:38:625 store_purchase 9 t:ArticleGood s:350 c:0
+2019/04/12 18:58:47:492 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/12 20:22:02:361 item_created id:603 oid:9 type:com.threerings.bang.data.BigShotItem
+2019/04/12 20:22:02:389 ranch_purchase 9 t:BigShot s:4000 c:0
+2019/04/12 20:22:20:530 item_created id:604 oid:9 type:com.threerings.bang.data.BigShotItem
+2019/04/12 20:22:20:557 ranch_purchase 9 t:BigShot s:4000 c:0
+2019/04/12 20:22:31:768 item_created id:605 oid:9 type:com.threerings.bang.data.BigShotItem
+2019/04/12 20:22:31:797 ranch_purchase 9 t:BigShot s:4000 c:0
+2019/04/12 20:22:49:699 item_created id:606 oid:9 type:com.threerings.bang.data.BigShotItem
+2019/04/12 20:22:49:728 ranch_purchase 9 t:BigShot s:4000 c:0
+2019/04/12 20:23:02:016 item_created id:607 oid:9 type:com.threerings.bang.data.BigShotItem
+2019/04/12 20:23:02:043 ranch_purchase 9 t:BigShot s:4000 c:0
+2019/04/12 20:36:41:908 item_created id:627 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 20:47:07:766 item_created id:628 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 20:56:26:963 item_deleted id:621 why:played_last_card
+2019/04/12 20:56:27:083 item_created id:629 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 21:07:01:952 item_created id:634 oid:20 type:com.threerings.bang.data.Badge
+2019/04/12 21:07:02:163 item_created id:635 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 21:16:18:149 item_created id:636 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 21:30:52:317 item_created id:637 oid:20 type:com.threerings.bang.data.Badge
+2019/04/12 21:30:52:537 item_created id:638 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 21:41:32:908 item_created id:639 oid:3 type:com.threerings.bang.data.Badge
+2019/04/12 21:41:33:291 item_created id:640 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 21:54:11:723 item_created id:641 oid:3 type:com.threerings.bang.data.Badge
+2019/04/12 22:05:10:881 item_deleted id:269 why:played_last_card
+2019/04/12 22:05:10:996 item_created id:642 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 22:05:11:368 item_created id:643 oid:3 type:com.threerings.bang.data.Badge
+2019/04/12 22:15:27:880 item_created id:644 oid:9 type:com.threerings.bang.data.Badge
+2019/04/12 22:15:28:094 item_created id:645 oid:20 type:com.threerings.bang.data.Badge
+2019/04/12 22:15:28:308 item_created id:646 oid:3 type:com.threerings.bang.data.Badge
+2019/04/12 22:25:45:131 item_deleted id:633 why:played_last_card
+2019/04/13 00:00:00:000 log_closed

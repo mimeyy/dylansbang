@@ -1,0 +1,57 @@
+2019/03/31 00:00:00:003 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 04:27:49:485 item_created id:171 oid:6 type:com.threerings.bang.data.CardItem
+2019/03/31 04:27:49:790 item_created id:172 oid:6 type:com.threerings.bang.data.CardItem
+2019/03/31 04:27:49:849 item_created id:173 oid:6 type:com.threerings.bang.data.CardItem
+2019/03/31 04:27:49:877 store_purchase 6 t:CardPackGood s:520 c:0
+2019/03/31 04:30:04:640 item_created id:174 oid:6 type:com.threerings.bang.data.TrainTicket
+2019/03/31 04:30:04:667 station_purchase 6 t:Ticket s:1000 c:0
+2019/03/31 04:31:18:929 item_created id:175 oid:6 type:com.threerings.bang.data.Article
+2019/03/31 04:31:18:958 store_purchase 6 t:ArticleGood s:12500 c:0
+2019/03/31 08:52:27:639 item_created id:176 oid:7 type:com.threerings.bang.data.TrainTicket
+2019/03/31 08:52:27:668 station_purchase 7 t:Ticket s:1000 c:0
+2019/03/31 08:53:44:460 item_created id:177 oid:7 type:com.threerings.bang.data.UnitPass
+2019/03/31 08:53:44:488 store_purchase 7 t:UnitPassGood s:1000 c:0
+2019/03/31 08:53:46:720 item_created id:178 oid:7 type:com.threerings.bang.data.UnitPass
+2019/03/31 08:53:46:747 store_purchase 7 t:UnitPassGood s:1000 c:0
+2019/03/31 08:53:53:169 item_created id:179 oid:7 type:com.threerings.bang.data.Purse
+2019/03/31 08:53:53:196 store_purchase 7 t:PurseGood s:1500 c:0
+2019/03/31 08:57:37:128 item_created id:180 oid:7 type:com.threerings.bang.data.Article
+2019/03/31 08:57:37:159 store_purchase 7 t:ArticleGood s:800 c:0
+2019/03/31 08:58:07:563 item_created id:181 oid:7 type:com.threerings.bang.data.Article
+2019/03/31 08:58:07:591 store_purchase 7 t:ArticleGood s:5000 c:0
+2019/03/31 08:58:10:712 item_created id:182 oid:7 type:com.threerings.bang.data.Article
+2019/03/31 08:58:10:740 store_purchase 7 t:ArticleGood s:1500 c:0
+2019/03/31 08:58:11:994 item_created id:183 oid:7 type:com.threerings.bang.data.Article
+2019/03/31 08:58:12:022 store_purchase 7 t:ArticleGood s:1000 c:0
+2019/03/31 08:58:55:618 item_created id:184 oid:7 type:com.threerings.bang.data.Article
+2019/03/31 08:58:55:646 store_purchase 7 t:ArticleGood s:15000 c:0
+2019/03/31 15:17:16:185 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 16:47:11:799 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 17:04:24:917 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 17:32:07:712 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 17:32:15:751 log_closed
+2019/03/31 17:54:55:533 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/03/31 19:34:46:767 store_purchase 2 t:CardPackGood s:520 c:0
+2019/03/31 19:38:44:767 store_purchase 2 t:CardPackGood s:520 c:0
+2019/03/31 19:40:00:978 store_purchase 2 t:CardPackGood s:520 c:0
+2019/03/31 19:49:57:905 store_purchase 2 t:CardPackGood s:520 c:0
+2019/03/31 19:50:34:147 store_purchase 2 t:CardPackGood s:520 c:0
+2019/03/31 22:57:36:010 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/02 20:49:12:391 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/02 21:36:34:258 item_created id:281 oid:1 type:com.threerings.bang.data.UnitPass
+2019/04/02 21:36:34:288 store_purchase 1 t:UnitPassGood s:1000 c:0
+2019/04/02 21:36:36:278 item_created id:282 oid:1 type:com.threerings.bang.data.UnitPass
+2019/04/02 21:36:36:306 store_purchase 1 t:UnitPassGood s:1000 c:0
+2019/04/02 21:36:42:382 item_created id:283 oid:1 type:com.threerings.bang.data.Song
+2019/04/02 21:36:42:410 store_purchase 1 t:SongGood s:0 c:5
+2019/04/02 23:53:11:518 item_created id:284 oid:3 type:com.threerings.bang.data.UnitPass
+2019/04/02 23:53:11:546 store_purchase 3 t:UnitPassGood s:0 c:0
+2019/04/02 23:53:14:884 item_created id:285 oid:3 type:com.threerings.bang.data.Purse
+2019/04/02 23:53:14:913 store_purchase 3 t:PurseGood s:0 c:0
+2019/04/02 23:53:17:684 item_created id:286 oid:3 type:com.threerings.bang.data.Star
+2019/04/02 23:53:17:715 store_purchase 3 t:StarGood s:0 c:0
+2019/04/02 23:53:20:924 item_created id:287 oid:3 type:com.threerings.bang.data.Star
+2019/04/02 23:53:20:952 store_purchase 3 t:StarGood s:0 c:0
+2019/04/02 23:53:24:184 item_created id:288 oid:3 type:com.threerings.bang.data.Star
+2019/04/02 23:53:24:213 store_purchase 3 t:StarGood s:0 c:0
+2019/04/03 00:00:00:018 log_closed

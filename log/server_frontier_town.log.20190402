@@ -1,0 +1,110 @@
+2019/03/31 00:00:00:018 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 04:27:33:572 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:frontier_town sid:2
+2019/03/31 04:30:09:323 session_end 6 ctime:156 node:frontier_town
+2019/03/31 04:30:14:099 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:frontier_town sid:2
+2019/03/31 04:30:25:536 session_end 6 ctime:11 node:frontier_town
+2019/03/31 04:30:30:313 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:frontier_town sid:2
+2019/03/31 04:36:25:096 game_ended t:232 g:BOUNTY bid:easy/shady_sam gid:one won:true 6:@:0:0:none,-2
+2019/03/31 04:37:44:749 session_end 6 ctime:434 node:frontier_town
+2019/03/31 04:37:49:511 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:frontier_town sid:2
+2019/03/31 04:37:53:097 session_end 6 ctime:4 node:frontier_town
+2019/03/31 08:52:05:002 session_start 7 ip:/175.38.117.117 id:C171042b42eee64e797c26c4b27ca089e node:frontier_town sid:2
+2019/03/31 09:00:37:782 session_end 7 ctime:513 node:frontier_town
+2019/03/31 14:59:28:876 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:06:09:736 session_end 2 ctime:401 node:frontier_town
+2019/03/31 15:06:13:945 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:06:17:051 session_end 2 ctime:3 node:frontier_town
+2019/03/31 15:06:32:998 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:06:49:684 session_end 2 ctime:17 node:frontier_town
+2019/03/31 15:06:53:928 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:10:17:003 session_end 2 ctime:203 node:frontier_town
+2019/03/31 15:10:21:176 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:17:16:183 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 15:20:16:773 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:20:25:353 session_end 2 ctime:9 node:frontier_town
+2019/03/31 15:20:29:513 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 15:20:37:738 session_end 2 ctime:8 node:frontier_town
+2019/03/31 16:47:11:797 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 16:48:12:467 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 16:52:58:164 session_end 2 ctime:286 node:frontier_town
+2019/03/31 16:53:02:411 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 16:54:07:546 session_end 2 ctime:65 node:frontier_town
+2019/03/31 16:54:54:958 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 16:55:09:185 session_end 2 ctime:14 node:frontier_town
+2019/03/31 16:55:13:393 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:04:24:912 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 17:05:17:853 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:05:45:174 session_end 2 ctime:27 node:frontier_town
+2019/03/31 17:11:24:395 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:11:44:093 session_end 2 ctime:20 node:frontier_town
+2019/03/31 17:11:48:319 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:24:45:879 session_end 2 ctime:778 node:frontier_town
+2019/03/31 17:32:07:710 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 17:32:15:750 log_closed
+2019/03/31 17:40:13:825 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:40:22:510 session_end 2 ctime:9 node:frontier_town
+2019/03/31 17:40:26:643 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:41:02:078 session_end 2 ctime:36 node:frontier_town
+2019/03/31 17:41:06:220 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:42:54:983 session_end 2 ctime:109 node:frontier_town
+2019/03/31 17:42:59:126 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:49:00:168 session_end 2 ctime:361 node:frontier_town
+2019/03/31 17:49:04:317 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:54:55:531 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 17:56:30:760 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:56:45:012 session_end 2 ctime:14 node:frontier_town
+2019/03/31 17:56:49:145 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 17:57:24:364 session_end 2 ctime:35 node:frontier_town
+2019/03/31 17:57:28:480 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 18:00:47:617 session_end 2 ctime:199 node:frontier_town
+2019/03/31 18:00:51:761 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 18:31:06:528 session_end 2 ctime:1815 node:frontier_town
+2019/03/31 18:31:10:710 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 18:31:22:662 session_end 2 ctime:12 node:frontier_town
+2019/03/31 18:32:28:960 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 18:32:37:304 session_end 2 ctime:8 node:frontier_town
+2019/03/31 18:32:41:423 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 18:33:39:711 session_end 2 ctime:58 node:frontier_town
+2019/03/31 19:34:27:516 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:35:44:340 session_end 2 ctime:77 node:frontier_town
+2019/03/31 19:35:56:351 session_start 7 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:36:42:599 session_end 7 ctime:46 node:frontier_town
+2019/03/31 19:38:22:003 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:38:51:898 session_end 2 ctime:30 node:frontier_town
+2019/03/31 19:39:51:841 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:40:10:783 session_end 2 ctime:19 node:frontier_town
+2019/03/31 19:49:48:591 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:50:43:376 session_end 2 ctime:55 node:frontier_town
+2019/03/31 19:51:39:425 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 19:52:32:207 session_end 2 ctime:53 node:frontier_town
+2019/03/31 20:20:20:207 session_start 2 ip:/24.177.167.52 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/03/31 20:21:30:088 session_resume 2 ip:/24.177.167.52
+2019/03/31 20:21:41:996 session_end 2 ctime:67 node:frontier_town
+2019/03/31 20:26:01:549 session_start 2 ip:/24.177.167.52 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/03/31 20:34:07:491 session_end 2 ctime:486 node:frontier_town
+2019/03/31 20:47:30:788 session_start 1 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 20:49:33:468 session_end 1 ctime:123 node:frontier_town
+2019/03/31 22:57:36:008 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/03/31 22:59:00:916 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/03/31 22:59:11:058 session_end 2 ctime:10 node:frontier_town
+2019/04/02 20:49:12:387 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/02 20:50:38:970 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/02 20:52:35:099 session_end 2 ctime:116 node:frontier_town
+2019/04/02 20:52:39:240 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/02 20:52:44:682 session_end 2 ctime:6 node:frontier_town
+2019/04/02 21:19:19:533 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/02 21:20:54:495 session_end 2 ctime:95 node:frontier_town
+2019/04/02 21:35:43:122 session_start 1 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/02 21:37:34:948 session_end 1 ctime:112 node:frontier_town
+2019/04/02 22:59:59:158 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/02 23:01:54:972 session_end 3 ctime:116 node:frontier_town
+2019/04/02 23:02:33:223 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/02 23:11:25:383 session_end 3 ctime:532 node:frontier_town
+2019/04/02 23:12:22:070 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/02 23:20:43:734 session_end 3 ctime:502 node:frontier_town
+2019/04/02 23:25:14:563 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/02 23:39:05:293 session_end 3 ctime:831 node:frontier_town
+2019/04/02 23:51:49:453 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/02 23:56:35:938 session_end 3 ctime:287 node:frontier_town
+2019/04/02 23:59:59:050 session_start 3 ip:/174.237.3.25 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/03 00:00:00:001 log_closed

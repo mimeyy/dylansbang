@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+
+<tutorial ident="bonus_test" board="Hard Luck Rock" players="2">
+  <show_view name="player_status"/>
+  <show_view name="unit_status"/>
+
+  <add_piece what="unit" id="1000" type="frontier_town/gunslinger"
+     location="21,14" owner="0"/>
+  <add_piece what="unit" id="1001" type="frontier_town/steamgunman"
+     location="21,15" owner="0"/>
+  <add_piece what="unit" id="1002" type="frontier_town/artillery"
+     location="21,16" owner="0"/>
+  <add_piece what="unit" id="1003" type="frontier_town/cavalry"
+     location="21,17" owner="0"/>
+
+  <add_piece what="bonus" type="frontier_town/bonus_point" location="22,14"/>
+  <add_piece what="bonus" type="frontier_town/card" location="22,15"/>
+  <add_piece what="bonus" type="frontier_town/duplicate" location="22,16"/>
+  <add_piece what="bonus" type="frontier_town/hustle" location="22,17"/>
+
+  <add_piece what="bonus" type="frontier_town/iron_plate" location="23,14"/>
+  <add_piece what="bonus" type="frontier_town/lady_luck" location="23,15"/>
+  <add_piece what="bonus" type="frontier_town/nugget" location="23,16"/>
+  <add_piece what="bonus" type="frontier_town/power_up" location="23,17"/>
+
+  <add_piece what="bonus" type="frontier_town/ramblin" location="24,15"/>
+  <add_piece what="bonus" type="frontier_town/repair" location="24,16"/>
+
+  <add_piece what="unit" id="2001" type="frontier_town/gunslinger"
+     location="25,14" owner="1"/>
+  <add_piece what="unit" id="2002" type="frontier_town/steamgunman"
+     location="25,15" owner="1"/>
+  <add_piece what="unit" id="2003" type="frontier_town/artillery"
+     location="25,16" owner="1"/>
+  <add_piece what="unit" id="2004" type="frontier_town/tactician"
+     location="25,17" owner="1"/>
+
+  <add_piece what="cow" id="3001" location="26,16" owner="-1"/>
+  <add_piece what="cow" id="3002" location="26,17" owner="-1"/>
+
+  <text message="start_test"/>
+  <wait event="text_clicked" allowAttack="0"/>
+  
+  <text message="end_test"/>
+  <wait event="text_clicked"/>
+</tutorial>

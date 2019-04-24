@@ -1,0 +1,344 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- $Id$ -->
+
+<!-- class ids are assigned by hand, which means that if you delete a -->
+<!-- colorization class, *do not* change the ids of the other colorization -->
+<!-- classes; reuse ids at your own risk -->
+<colors>
+  <!-- hair recolorations -->
+  <class classId="1" name="hair" source="#922226" range="0.05, 0.3, 1">
+    <color colorId="1" name="red" offsets="0.02, -0.1, 0"/>
+    <color colorId="2" name="grey" offsets="0.13, -0.9, -0.15"/>
+    <color colorId="3" name="white" offsets="0.13, -0.8, .15"/>
+    <color colorId="4" name="black" offsets="0.6, -0.7, -0.6"/>
+    <color colorId="5" name="brown" offsets="0.1, 0, -0.4"/>
+    <color colorId="6" name="lightBrown" offsets="0.11, -0.2, -0.2"/>
+    <color colorId="7" name="sandyBlonde" offsets="0.1, -0.1, 0"/>
+    <color colorId="8" name="blonde" offsets="0.13, -0.4, -0.1"/>
+    <color colorId="9" name="toehead" offsets="0.15, -0.4, 0.05"/>
+    <color colorId="10" name="violet" offsets="0.83, -0.2, -0.3"/>
+    <color colorId="11" name="purple" offsets="0.76, 0.05, -0.25"/>
+    <color colorId="12" name="navyBlue" offsets="0.65, -0.2, -0.35"/>
+    <color colorId="13" name="blue" offsets="0.6, 0, -0.1"/>
+    <color colorId="14" name="aqua" offsets="0.5, 0, -0.2"/>
+    <color colorId="15" name="lime" offsets="0.32, -0.1, -0.1"/>
+    <color colorId="16" name="green" offsets="0.3, -0.1, -0.4"/>
+    <color colorId="17" name="orange" offsets="0.08, 0, -0.1"/>
+    <color colorId="18" name="maroon" offsets="0, 0.1, -0.4"/>
+  </class>
+
+  <!-- skin recolorations -->
+  <class classId="2" name="skin" source="#C550D7" range="0.08, 0.4, 1">
+    <color colorId="1" name="darkest" offsets="-0.75, -0.2, -0.45"/>
+    <color colorId="2" name="warm_dark" offsets="-0.774, 0.043, -0.345"/>
+    <color colorId="3" name="dark" offsets="-0.75, 0.16, -0.3"/>
+    <color colorId="4" name="native" offsets="-0.76, 0.2, -0.2"/>
+    <color colorId="5" name="mixed" offsets="-0.753, 0, -0.175"/>
+    <color colorId="6" name="medium" offsets="-0.75, 0.05, -0.1"/>
+    <color colorId="7" name="mild" offsets="-0.75, -0.05, -0.01"/>
+    <color colorId="8" name="tan" offsets="-0.73, -0.08, -0.03"/>
+    <color colorId="9" name="white" offsets="-0.74, -0.25, -0.02"/>
+    <color colorId="10" name="pasty" offsets="-0.72, -0.4, 0"/>
+  </class>
+
+  <!-- iris recolorations (this is a tertiary color because it's combined -->
+  <!-- with clothes_p and clothes_s -->
+  <class classId="3" name="iris_t" source="#2141A2" range="0.05, 0.6, 1">
+    <color colorId="1" name="blue" offsets="0, 0, 0"/>
+    <color colorId="2" name="purple" offsets="0.1, 0.2, 0"/>
+    <color colorId="3" name="violet" offsets="0.2, -0.3, -0.2"/>
+    <color colorId="4" name="red" offsets="0.3, -0.1, -0.2"/>
+    <color colorId="5" name="brown" offsets="0.35, -0.5, -0.4"/>
+    <color colorId="6" name="orange" offsets="0.4, -0.2, -0.2"/>
+    <color colorId="7" name="beige" offsets="0.5, -0.2, -0.2"/>
+    <color colorId="8" name="hazel" offsets="0.55, 0, -0.2"/>
+    <color colorId="9" name="green" offsets="0.6, 0.2, -0.2"/>
+    <color colorId="10" name="lime" offsets="0.7, 0.2, -0.2"/>
+    <color colorId="11" name="sky" offsets="0.92, 0, 0"/>
+  </class>
+
+  <!-- primary makeup recolorations -->
+  <class classId="4" name="makeup_p" source="#922226" range="0.07, 0.7, 1">
+    <color colorId="1" name="red" offsets="0, 0, 0"/>
+    <color colorId="2" name="brown" offsets="-0.91, -0.2, -0.2"/>
+    <color colorId="3" name="white" offsets="0, -1, 0.3"/>
+    <color colorId="4" name="black" offsets="0, -1, -0.6"/>
+    <color colorId="5" name="grey" offsets="0, -1, -0.2"/>
+    <color colorId="6" name="yellow" offsets="-0.83, -0.2, 0.1"/>
+    <color colorId="7" name="pink" offsets="0.95, -0.2, 0.15"/>
+    <color colorId="8" name="violet" offsets="0.83, -0.1, -0.15"/>
+    <color colorId="9" name="purple" offsets="0.76, 0.05, -0.11"/>
+    <color colorId="10" name="navyBlue" offsets="0.65, -0.2, -0.2"/>
+    <color colorId="11" name="blue" offsets="-0.4, 0, 0"/>
+    <color colorId="12" name="aqua" offsets="0.5, 0, -0.1"/>
+    <color colorId="13" name="lime" offsets="0.32, -0.1, -0.1"/>
+    <color colorId="14" name="green" offsets="0.3, -0.2, -0.4"/>
+    <color colorId="15" name="orange" offsets="0.08, 0, 0.05"/>
+    <color colorId="16" name="maroon" offsets="0, 0.1, -0.3"/>
+    <color colorId="17" name="darkBrown" offsets="-0.91, -0.2, -0.4"/>
+    <color colorId="18" name="gold" offsets="0.125, 0.4, 0.1"/>
+  </class>
+
+  <!-- secondary makeup recolorations -->
+  <class classId="11" name="makeup_s" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="red" offsets="0.65, 0, 0.2"/>
+    <color colorId="2" name="brown" offsets="-0.28, -0.37, -0.1"/>
+    <color colorId="3" name="white" offsets="0.72, -1, 0.2"/>
+    <color colorId="4" name="black" offsets="0.72, -1, -0.5"/>
+    <color colorId="5" name="grey" offsets="0.2, -1, 0"/>
+    <color colorId="6" name="yellow" offsets="0.81, -0.25, 0.2"/>
+    <color colorId="7" name="pink" offsets="0.6, -0.27, 0.25"/>
+    <color colorId="8" name="violet" offsets="-0.55, -0.15, 0.09"/>
+    <color colorId="9" name="purple" offsets="-0.6, 0.1, 0.1"/>
+    <color colorId="10" name="navyBlue" offsets="0.28, -0.27, -0.07"/>
+    <color colorId="11" name="blue" offsets="0.25, -0.15, 0.2"/>
+    <color colorId="12" name="aqua" offsets="0.15, 0, 0.15"/>
+    <color colorId="13" name="lime" offsets="-0.05, -0.1, 0.1"/>
+    <color colorId="14" name="green" offsets="-0.05, -0.25, -0.3"/>
+    <color colorId="15" name="orange" offsets="0.72, 0.04, 0.252"/>
+    <color colorId="16" name="maroon" offsets="0.65, 0.1, -0.2"/>
+    <color colorId="17" name="darkBrown" offsets="-0.28, -0.37, -0.27"/>
+    <color colorId="18" name="gold" offsets="0.76, 0.6, 0.24"/>
+  </class>
+
+  <!-- primary clothing recolorations -->
+  <class classId="5" name="clothes_p" source="#922226" range="0.07, 0.4, 1">
+    <color colorId="1" name="dkbrn" offsets="-0.91, -0.2, -0.4"/>
+    <color colorId="2" name="leather" offsets="0.08, 0.2, -0.3"/>
+    <color colorId="3" name="brown" offsets="-0.91, -0.2, -0.2"/>
+    <color colorId="4" name="beige" offsets="0.13, -0.4, -0.1"/>
+    <color colorId="5" name="pink" offsets="0.95, -0.2, 0.15"/>
+    <color colorId="6" name="red" offsets="0, 0, 0"/>
+    <color colorId="7" name="maroon" offsets="0, 0.1, -0.3"/>
+    <color colorId="8" name="orange" offsets="0.08, 0, 0.05"/>
+    <color colorId="9" name="gold" offsets="0.125, 0.4, 0.1"/>
+    <color colorId="10" name="yellow" offsets="-0.83, -0.2, 0.1"/>
+    <color colorId="11" name="moss" offsets="0.25, -0.4, -0.15"/>
+    <color colorId="12" name="lime" offsets="0.32, -0.1, -0.1"/>
+    <color colorId="13" name="green" offsets="0.3, -0.2, -0.4"/>
+    <color colorId="14" name="olive" offsets="0.25, -0.5, -0.4"/>
+    <color colorId="15" name="aqua" offsets="0.5, 0, -0.1"/>
+    <color colorId="16" name="blue" offsets="-0.4, 0, 0"/>
+    <color colorId="17" name="navyBlue" offsets="0.65, -0.2, -0.2"/>
+    <color colorId="18" name="slate" offsets="0.6, -0.4, -0.3"/>
+    <color colorId="19" name="violet" offsets="0.83, -0.1, -0.15"/>
+    <color colorId="20" name="purple" offsets="0.76, 0.05, -0.11"/>
+    <color colorId="21" name="white" offsets="0, -1, 0.1"/>
+    <color colorId="22" name="grey" offsets="0, -1, -0.2"/>
+    <color colorId="23" name="black" offsets="0, -1, -0.6"/>
+  </class>
+
+  <!-- secondary clothing recolorations -->
+  <class classId="6" name="clothes_s" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="dkbrn" offsets="-0.28, -0.37, -0.27"/>
+    <color colorId="2" name="leather" offsets="0.7, 0.2, -0.2"/>
+    <color colorId="3" name="brown" offsets="-0.28, -0.37, -0.1"/>
+    <color colorId="4" name="beige" offsets="0.78, -0.4, 0"/>
+    <color colorId="5" name="pink" offsets="0.6, -0.27, 0.25"/>
+    <color colorId="6" name="red" offsets="0.65, 0, 0.2"/>
+    <color colorId="7" name="maroon" offsets="0.65, 0.1, -0.2"/>
+    <color colorId="8" name="orange" offsets="0.72, 0.04, 0.252"/>
+    <color colorId="9" name="gold" offsets="0.76, 0.6, 0.24"/>
+    <color colorId="10" name="yellow" offsets="0.81, -0.25, 0.2"/>
+    <color colorId="11" name="moss" offsets="0.9, -0.5, 0"/>
+    <color colorId="12" name="lime" offsets="-0.05, -0.1, 0.1"/>
+    <color colorId="13" name="green" offsets="-0.05, -0.25, -0.3"/>
+    <color colorId="14" name="olive" offsets="0, -0.6, -0.25"/>
+    <color colorId="15" name="aqua" offsets="0.15, 0, 0.15"/>
+    <color colorId="16" name="blue" offsets="0.25, -0.15, 0.2"/>
+    <color colorId="17" name="navyBlue" offsets="0.28, -0.27, -0.07"/>
+    <color colorId="18" name="slate" offsets="0.23, -0.4, -0.2"/>
+    <color colorId="19" name="violet" offsets="-0.55, -0.15, 0.09"/>
+    <color colorId="20" name="purple" offsets="-0.6, 0.1, 0.1"/>
+    <color colorId="21" name="white" offsets="0.72, -1, 0.2"/>
+    <color colorId="22" name="grey" offsets="0.2, -1, 0"/>
+    <color colorId="23" name="black" offsets="0.72, -1, -0.5"/>
+  </class>
+
+  <!-- tertiary clothing recolorations -->
+  <class classId="7" name="clothes_t" source="#87A7FF" range="0.1, 0.6, 1">
+    <color colorId="1" name="dkbrn" offsets="0.49, 0, -0.5"/>
+    <color colorId="2" name="leather" offsets="0.44, 0.1, -0.32"/>
+    <color colorId="3" name="brown" offsets="0.48, -0.05, -0.32"/>
+    <color colorId="4" name="beige" offsets="0.51, -0.25, -0.18"/>
+    <color colorId="5" name="pink" offsets="0.35, -0.1, 0.05"/>
+    <color colorId="6" name="red" offsets="0.4, 0.6, -0.1"/>
+    <color colorId="7" name="maroon" offsets="0.4, 0.6, -0.4"/>
+    <color colorId="8" name="orange" offsets="0.46, 0.2, -0.05"/>
+    <color colorId="9" name="gold" offsets="0.5, 0.1, 0.1"/>
+    <color colorId="10" name="yellow" offsets="0.55, -0.1, 0.1"/>
+    <color colorId="11" name="moss" offsets="0.63, -0.3, -0.25"/>
+    <color colorId="12" name="lime" offsets="0.7, 0, -0.15"/>
+    <color colorId="13" name="green" offsets="0.7, 0, -0.5"/>
+    <color colorId="14" name="olive" offsets="0.7, -0.4, -0.5"/>
+    <color colorId="15" name="aqua" offsets="0.87, 0.2, -0.15"/>
+    <color colorId="16" name="blue" offsets="0, 0.1, -0.05"/>
+    <color colorId="17" name="navyBlue" offsets="0.02, 0, -0.3"/>
+    <color colorId="18" name="slate" offsets="0.99, -0.3, -0.35"/>
+    <color colorId="19" name="violet" offsets="0.22, 0, -0.2"/>
+    <color colorId="20" name="purple" offsets="0.15, 0.2, -0.25"/>
+    <color colorId="21" name="white" offsets="0, -1, 0.05"/>
+    <color colorId="22" name="grey" offsets="0, -1, -0.28"/>
+    <color colorId="23" name="black" offsets="0, -1, -0.7"/>
+  </class>
+
+  <!-- TODO: primary familiar recolorations -->
+  <class classId="8" name="familiar_p" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="red" offsets="0.65, 0, 0.2"/>
+  </class>
+
+  <!-- TODO: secondary familiar recolorations -->
+  <class classId="9" name="familiar_s" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="red" offsets="0.65, 0, 0.2"/>
+  </class>
+
+  <!-- TODO: tertiary familiar recolorations -->
+  <class classId="10" name="familiar_t" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="red" offsets="0.65, 0, 0.2"/>
+  </class>
+
+  <!-- unit recolorations -->
+  <class classId="12" name="unit" source="#0700FF" range="0.1, 0.8, 1">
+    <color colorId="1" name="grey" offsets="0, -1, -0.28"/>
+    <color colorId="2" name="blue" offsets="0, 0.1, 0"/>
+    <color colorId="3" name="red" offsets="0.36, 0.4, -0.1"/>
+    <color colorId="4" name="green" offsets="0.7, .1, -0.1"/>
+    <color colorId="5" name="yellow" offsets="0.5, 0.1, 0.14"/>
+    <color colorId="6" name="orange" offsets="0.432, -0.05, 0.135"/>
+    <color colorId="7" name="aqua" offsets="-0.095, -0.095, -0.015"/>
+    <color colorId="8" name="purple" offsets="0.097, 0, -0.097"/>
+  </class>
+
+  <!-- endgame background recolorations -->
+  <class classId="13" name="metal" source="#AE993D" range="0.06, 0.8, 1">
+    <color colorId="1" name="gold" offsets="1, 0.02, 0.06"/>
+    <color colorId="2" name="silver" offsets="0.41, -0.62, -0.07"/>
+    <color colorId="3" name="bronze" offsets="-0.046, -0.1, -0.17"/>
+    <color colorId="4" name="brown" offsets="-0.02, -0.15, -0.2"/>
+    <color colorId="5" name="bad" offsets="-0.1, -0.1, -0.36"/>
+  </class>
+
+  <!-- buckle recolorations (primary because they're composed in fingerprints) -->
+  <class classId="14" name="buckle_p" source="#A29E0C" range="0.05, 0.8, 0.6">
+    <color colorId="1" name="gold" offsets="0, 0, 0"/>
+    <color colorId="2" name="old_gold" offsets="1, -0.02, -0.18"/>
+    <color colorId="3" name="silver" offsets="0.27, -0.78, -0.065"/>
+    <color colorId="4" name="bronze" offsets="-0.043, -0.39, -0.065"/>
+    <color colorId="5" name="rust" offsets="-0.12, -0.53, -0.15"/>
+    <color colorId="6" name="dark" offsets="-0.02, -0.56, -0.35"/>
+    <color colorId="7" name="green" offsets="-0.95, -0.6, -0.08"/>
+    <color colorId="8" name="steel" offsets="1, -1, -0.14"/>
+    <color colorId="9" name="copper" offsets="0.94, -0.16, -0.02"/>
+    <color colorId="10" name="old" offsets="-0.03, -0.4, -0.23"/>
+    <color colorId="11" name="blue" offsets="0.39, -0.5, -0.24"/>
+  </class>
+
+  <!-- primary buckle background recolorations -->
+  <class classId="15" name="buckle_back_p" source="#805D4A" range="0.05, 0.8, 0.6">
+    <color colorId="1" name="gold" offsets="0.075, 0.53, 0.065"/>
+    <color colorId="2" name="old_gold" offsets="0.075, 0.45, -0.15"/>
+    <color colorId="3" name="silver" offsets="-0.57, -0.12, 0.075"/>
+    <color colorId="4" name="bronze" offsets="0.022, 0.04, -0.054"/>
+    <color colorId="5" name="rust" offsets="-0.05, 0.23, -0.15"/>
+    <color colorId="6" name="dark" offsets="-0.1, -0.1, -0.3"/>
+    <color colorId="7" name="greencopper" offsets="-0.87, 0.32, -0.02"/>
+    <color colorId="8" name="copper" offsets="1, 0.38, -0.075"/>
+    <color colorId="9" name="old" offsets="-0.03, -0.4, -0.2"/>
+    <color colorId="10" name="bluesteel" offsets="0.516, 0, 0"/>
+    <color colorId="11" name="white" offsets="0.27, -0.78, -0.065"/>
+    <color colorId="12" name="tan" offsets="-0.95, 0.23, -0.075"/>
+  </class>
+
+  <!-- secondary buckle background recolorations -->
+  <class classId="16" name="buckle_back_s" source="#778791" range="0.05, 0.8, 0.6">
+    <color colorId="1" name="gold" offsets="0.58, 0.65, 0.15"/>
+    <color colorId="2" name="old_gold" offsets="0.58, 0.54, -0.075"/>
+    <color colorId="3" name="silver" offsets="-0.11, -0.09, 0.14"/>
+    <color colorId="4" name="bronze" offsets="-0.48, 0.05, 0"/>
+    <color colorId="5" name="rust" offsets="0.45, 0.3, -0.075"/>
+    <color colorId="6" name="dark" offsets="0.43, -0.065, -0.23"/>
+    <color colorId="7" name="greencopper" offsets="-0.366, 0.39, 0.065"/>
+    <color colorId="8" name="copper" offsets="-0.52, 0.46, 0.01"/>
+    <color colorId="9" name="old" offsets="-0.5, -0.94, -0.14"/>
+    <color colorId="10" name="bluesteel" offsets="0, 0.05, 0.05"/>
+    <color colorId="11" name="white" offsets="0, -1, 0.054"/>
+    <color colorId="12" name="dkbrn" offsets="0.56, 0.29, -0.01"/>
+    <color colorId="13" name="brown" offsets="0.54, 0.48, -0.21"/>
+    <color colorId="14" name="pink" offsets="0.35, 0.25, 0.3"/>
+    <color colorId="15" name="red" offsets="0.44, 0.7, 0.01"/>
+    <color colorId="16" name="maroon" offsets="0.4, 1, -0.3"/>
+    <color colorId="17" name="orange" offsets="0.5, 0.75, 0"/>
+    <color colorId="18" name="yellow" offsets="0.59, 0.31, 0.14"/>
+    <color colorId="19" name="grey" offsets="0.63, -0.3, -0.25"/>
+    <color colorId="20" name="green" offsets="0.7, 0.37, -0.15"/>
+    <color colorId="21" name="black" offsets="1, -0.15, -0.45"/>
+    <color colorId="22" name="aqua" offsets="0.93, 0.2, 0"/>
+    <color colorId="23" name="blue" offsets="0.43, 0.39, 0"/>
+    <color colorId="24" name="purple" offsets="0.22, 0, -0.2"/>
+  </class>
+
+  <!-- familiar armadillo recolorations -->
+  <class classId="17" name="armadillo_t" source="#778791" range="0.05, 0.8, 0.6">
+    <color colorId="1" name="old_gold" offsets="0.58, 0.54, -0.075"/>
+    <color colorId="2" name="silver" offsets="-0.11, -0.09, 0.14"/>
+    <color colorId="3" name="bronze" offsets="-0.48, 0.05, 0"/>
+    <color colorId="4" name="greencopper" offsets="-0.366, -0.05, 0"/>
+    <color colorId="5" name="old" offsets="-0.5, -0.94, -0.14"/>
+    <color colorId="6" name="bluesteel" offsets="0, -0.05, 0"/>
+    <color colorId="7" name="white" offsets="0, -1, 0.054"/>
+    <color colorId="8" name="dkbrn" offsets="0.56, 0.29, -0.01"/>
+    <color colorId="9" name="brown" offsets="0.54, 0.48, -0.21"/>
+    <color colorId="10" name="grey" offsets="0.63, -0.3, -0.25"/>
+    <color colorId="11" name="black" offsets="1, -0.15, -0.45"/>
+    <color colorId="12" name="purple" offsets="0.22, 0, -0.2"/>
+  </class>
+
+  <!-- primary raccoon recolorations -->
+  <class classId="18" name="raccoon_p" source="#922226" range="0.07, 0.4, 1">
+    <color colorId="1" name="dkbrn" offsets="-0.91, -0.2, -0.4"/>
+    <color colorId="2" name="leather" offsets="0.08, 0.2, -0.3"/>
+    <color colorId="3" name="brown" offsets="-0.91, -0.2, -0.2"/>
+    <color colorId="4" name="beige" offsets="0.13, -0.4, -0.1"/>
+    <color colorId="5" name="orange" offsets="0.08, -0.1, 0.05"/>
+    <color colorId="6" name="gold" offsets="0.125, -0.2, 0.1"/>
+    <color colorId="7" name="yellow" offsets="-0.83, -0.4, 0.1"/>
+    <color colorId="8" name="moss" offsets="0.25, -0.7, -0.15"/>
+    <color colorId="9" name="olive" offsets="0.25, -0.5, -0.4"/>
+    <color colorId="10" name="slate" offsets="0.6, -0.4, -0.3"/>
+    <color colorId="11" name="white" offsets="0, -1, 0.1"/>
+    <color colorId="12" name="grey" offsets="0, -1, -0.2"/>
+    <color colorId="13" name="black" offsets="0, -1, -0.6"/>
+  </class>
+
+  <!-- secondary raccoon recolorations -->
+  <class classId="19" name="raccoon_s" source="#57AC6A" range="0.1, 0.6, 1">
+    <color colorId="1" name="redbrown" offsets="0.7, 0.2, -0.1"/>
+    <color colorId="2" name="greybrown" offsets="-0.28, -0.37, -0.1"/>
+    <color colorId="3" name="beige" offsets="0.78, -0.4, 0"/>
+    <color colorId="4" name="brown" offsets="0.72, 0.1, -0.052"/>
+    <color colorId="5" name="orange" offsets="0.76, 0.6, 0.14"/>
+    <color colorId="6" name="tan" offsets="0.81, -0.4, 0.2"/>
+    <color colorId="7" name="moss" offsets="0.9, -0.7, 0"/>
+    <color colorId="8" name="slate" offsets="0.23, -0.4, -0.15"/>
+    <color colorId="9" name="grey" offsets="0.2, -1, 0"/>
+    <color colorId="10" name="black" offsets="0.72, -1, -0.4"/>
+  </class>
+
+  <!-- primary buzzard recolorations -->
+  <class classId="20" name="buzzard_p" source="#922226" range="0.07, 0.4, 1">
+    <color colorId="1" name="leather" offsets="0.08, 0.2, -0.3"/>
+    <color colorId="2" name="brown" offsets="-0.91, -0.2, -0.2"/>
+    <color colorId="3" name="beige" offsets="0.13, -0.4, -0.1"/>
+    <color colorId="4" name="pink" offsets="0.95, -0.4, 0.15"/>
+    <color colorId="5" name="red" offsets="0, 0, 0"/>
+    <color colorId="6" name="maroon" offsets="0, 0.1, -0.3"/>
+    <color colorId="7" name="orange" offsets="0.08, -0.2, 0.05"/>
+    <color colorId="8" name="gold" offsets="0.125, -0.3, 0.1"/>
+    <color colorId="9" name="olive" offsets="0.25, -0.35, -0.4"/>
+    <color colorId="10" name="blue" offsets="-0.4, -0.4, 0.1"/>
+    <color colorId="11" name="slate" offsets="0.6, -0.4, -0.3"/>
+    <color colorId="12" name="violet" offsets="0.83, -0.25, -0.15"/>
+    <color colorId="13" name="grey" offsets="0, -1, -0.2"/>
+  </class>
+
+</colors>

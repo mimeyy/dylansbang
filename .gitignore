@@ -1,0 +1,9 @@
+etc/test/*.conf
+etc/test/*.properties
+etc/prod/*.conf
+etc/prod/*.properties
+etc/blosxom.conf
+etc/bang-client.pro
+etc/proguard/*.map
+log/*.log
+.gradle

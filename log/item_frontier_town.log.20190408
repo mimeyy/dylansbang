@@ -1,0 +1,51 @@
+2019/04/08 00:00:00:002 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/08 16:41:22:975 item_created id:444 oid:18 type:com.threerings.bang.data.Article
+2019/04/08 16:42:53:146 item_created id:445 oid:18 type:com.threerings.bang.data.Article
+2019/04/08 16:42:53:173 store_purchase 18 t:ArticleGood s:500 c:0
+2019/04/08 16:43:06:785 item_created id:446 oid:18 type:com.threerings.bang.data.Article
+2019/04/08 16:43:06:812 store_purchase 18 t:ArticleGood s:250 c:0
+2019/04/08 16:43:14:948 item_created id:447 oid:18 type:com.threerings.bang.data.Article
+2019/04/08 16:43:14:976 store_purchase 18 t:ArticleGood s:350 c:0
+2019/04/08 16:44:43:290 barber_purchase 18 t:Look s:1925 c:0
+2019/04/08 16:45:09:913 item_created id:448 oid:18 type:com.threerings.bang.data.Article
+2019/04/08 16:45:09:940 store_purchase 18 t:ArticleGood s:350 c:0
+2019/04/08 16:46:05:281 item_created id:449 oid:18 type:com.threerings.bang.data.BigShotItem
+2019/04/08 16:46:05:309 ranch_purchase 18 t:BigShot s:4000 c:0
+2019/04/08 16:46:14:253 item_created id:450 oid:18 type:com.threerings.bang.data.BigShotItem
+2019/04/08 16:46:14:281 ranch_purchase 18 t:BigShot s:4000 c:0
+2019/04/08 19:46:57:546 item_created id:488 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:46:57:573 store_purchase 18 t:CardTripletGood s:40 c:0
+2019/04/08 19:46:58:346 store_purchase 18 t:CardTripletGood s:40 c:0
+2019/04/08 19:46:59:860 item_created id:489 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:46:59:887 store_purchase 18 t:CardTripletGood s:30 c:0
+2019/04/08 19:47:03:315 item_created id:490 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:427 item_created id:491 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:491 item_created id:492 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:552 item_created id:493 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:616 item_created id:494 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:678 item_created id:495 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:741 item_created id:496 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:801 item_created id:497 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:864 item_created id:498 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:03:925 item_created id:499 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:04:041 item_created id:500 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:04:101 item_created id:501 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:04:165 item_created id:502 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:04:227 item_created id:503 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:04:253 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:05:658 item_created id:504 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:05:826 item_created id:505 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:05:886 item_created id:506 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:06:047 item_created id:507 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:06:160 item_created id:508 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:06:532 item_created id:509 oid:18 type:com.threerings.bang.data.CardItem
+2019/04/08 19:47:06:608 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:08:227 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:09:672 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:11:006 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:12:623 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:14:156 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:15:587 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:17:041 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/08 19:47:18:532 store_purchase 18 t:CardPackGood s:520 c:0
+2019/04/09 00:00:00:000 log_closed

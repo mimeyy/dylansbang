@@ -1,0 +1,21 @@
+#!/bin/sh
+#
+# $Id$
+#
+# Command line launcher for Bang! tools
+
+BANG_HOME=`dirname $0`
+BANG_HOME=`cd $BANG_HOME/.. ; pwd`
+
+TOOL_MEMORY=384M
+if [ -f $BANG_HOME/server.conf ]; then
+    . $BANG_HOME/server.conf
+else
+    echo "Can't load $BANG_HOME/server.conf; can't run tool."
+    exit 255
+fi
+
+umask 002
+
+# do the deed
+$BANG_HOME/bin/bangjava -nodevlibs -server -Djava.awt.headless=true -mx$TOOL_MEMORY $*

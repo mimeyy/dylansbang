@@ -1,0 +1,10 @@
+2019/04/23 00:00:00:038 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/23 12:02:39:834 log_closed
+2019/04/23 12:10:46:149 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/23 12:11:40:549 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/23 12:12:43:610 session_end 20 ctime:63 node:indian_post
+2019/04/23 12:38:18:630 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/23 12:43:40:938 game_ended t:68 g:PRACTICE u:frontier_town/tactician 20:#:1:0:none,-2
+2019/04/23 12:45:29:556 game_ended t:97 g:TUTORIAL tut:new_units 20:@:1:130:none,-2
+2019/04/23 12:54:43:702 session_end 20 ctime:985 node:indian_post
+2019/04/24 00:00:00:001 log_closed

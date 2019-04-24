@@ -1,0 +1,40 @@
+2019/04/07 00:00:00:004 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/07 12:47:35:073 item_created id:415 oid:21 type:com.threerings.bang.data.BigShotItem
+2019/04/07 12:49:51:430 item_created id:416 oid:21 type:com.threerings.bang.data.Article
+2019/04/07 13:03:02:489 barber_purchase 20 t:Look s:2025 c:0
+2019/04/07 13:04:00:645 item_created id:417 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:04:00:672 store_purchase 20 t:ArticleGood s:2750 c:0
+2019/04/07 13:04:23:386 item_created id:418 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:04:23:413 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/07 13:04:30:194 item_created id:419 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:04:30:220 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/07 13:04:34:372 item_created id:420 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:04:34:400 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/07 13:04:48:025 item_created id:421 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:04:48:052 store_purchase 20 t:ArticleGood s:5000 c:0
+2019/04/07 13:05:31:543 item_created id:422 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:05:31:571 store_purchase 20 t:ArticleGood s:4500 c:0
+2019/04/07 13:05:55:929 item_created id:423 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:05:55:956 store_purchase 20 t:ArticleGood s:4500 c:0
+2019/04/07 13:06:34:148 item_created id:424 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:06:34:178 store_purchase 20 t:ArticleGood s:1750 c:0
+2019/04/07 13:06:45:729 item_created id:425 oid:20 type:com.threerings.bang.data.Purse
+2019/04/07 13:06:45:760 store_purchase 20 t:PurseGood s:1500 c:0
+2019/04/07 13:06:48:196 item_created id:426 oid:20 type:com.threerings.bang.data.UnitPass
+2019/04/07 13:06:48:223 store_purchase 20 t:UnitPassGood s:1000 c:0
+2019/04/07 13:06:49:731 item_created id:427 oid:20 type:com.threerings.bang.data.UnitPass
+2019/04/07 13:06:49:762 store_purchase 20 t:UnitPassGood s:1000 c:0
+2019/04/07 13:07:43:606 item_created id:428 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:07:43:635 store_purchase 20 t:StarGood s:1000 c:0
+2019/04/07 13:07:46:440 item_created id:429 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:07:46:470 store_purchase 20 t:StarGood s:2000 c:0
+2019/04/07 13:07:48:075 item_created id:430 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:07:48:106 store_purchase 20 t:StarGood s:3000 c:0
+2019/04/07 13:15:42:612 item_created id:441 oid:20 type:com.threerings.bang.data.BigShotItem
+2019/04/07 13:15:42:639 ranch_purchase 20 t:BigShot s:4000 c:0
+2019/04/07 13:16:04:391 item_created id:442 oid:20 type:com.threerings.bang.data.BigShotItem
+2019/04/07 13:16:04:419 ranch_purchase 20 t:BigShot s:4000 c:0
+2019/04/07 13:17:57:321 barber_purchase 20 t:Look s:2275 c:0
+2019/04/07 15:45:16:180 item_created id:443 oid:3 type:com.threerings.bang.data.Article
+2019/04/07 15:45:16:207 store_purchase 3 t:ArticleGood s:0 c:0
+2019/04/08 00:00:00:002 log_closed

@@ -1,0 +1,35 @@
+2019/04/18 00:00:00:001 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/18 00:10:00:307 item_created id:761 oid:9 type:com.threerings.bang.data.Article
+2019/04/18 00:10:00:335 store_purchase 9 t:ArticleGood s:12500 c:0
+2019/04/18 21:01:56:332 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:01:58:271 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:00:171 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:02:206 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:03:852 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:05:557 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:07:358 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:09:095 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:11:729 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:13:461 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:15:081 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:16:631 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:18:186 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:19:825 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:21:456 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:23:003 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:24:476 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:02:26:229 store_purchase 20 t:CardPackGood s:520 c:0
+2019/04/18 21:52:02:235 item_created id:765 oid:9 type:com.threerings.bang.data.CardItem
+2019/04/18 21:52:02:510 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:04:370 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:06:418 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:09:143 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:11:222 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:14:998 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:20:862 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:23:816 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:26:397 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:30:092 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:32:162 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/18 21:52:34:209 store_purchase 9 t:CardPackGood s:520 c:0
+2019/04/19 00:00:00:001 log_closed

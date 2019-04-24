@@ -1,0 +1,22 @@
+2019/04/16 00:00:00:026 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/16 00:21:24:002 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/16 00:24:39:979 game_ended t:113 g:BOUNTY bid:hard/big_john gid:hunt won:false 2:#:3:0:none,-2,-2,-2
+2019/04/16 00:29:15:163 game_ended t:275 g:BOUNTY bid:hard/big_john gid:hunt won:true 2:@:0:0:none,-2,-2,-2
+2019/04/16 00:35:02:768 game_ended t:334 g:BOUNTY bid:hard/big_john gid:collect won:true 2:@:0:0:none,-2,-2,-2
+2019/04/16 00:40:12:122 game_ended t:296 g:BOUNTY bid:hard/big_john gid:stab won:true 2:@:0:2000:none,-2,-2
+2019/04/16 00:49:52:583 session_end 2 ctime:1709 node:frontier_town
+2019/04/16 03:46:08:116 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:frontier_town sid:2
+2019/04/16 03:49:25:399 session_end 6 ctime:197 node:frontier_town
+2019/04/16 20:52:17:886 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/16 20:53:10:424 session_end 20 ctime:53 node:frontier_town
+2019/04/16 20:59:37:373 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:frontier_town sid:2
+2019/04/16 20:59:49:996 session_end 22 ctime:13 node:frontier_town
+2019/04/16 21:01:08:480 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:frontier_town sid:2
+2019/04/16 21:01:14:648 session_end 22 ctime:6 node:frontier_town
+2019/04/16 21:01:50:937 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:frontier_town sid:2
+2019/04/16 21:05:13:709 session_end 22 ctime:203 node:frontier_town
+2019/04/16 21:08:03:746 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:frontier_town sid:2
+2019/04/16 21:08:10:188 session_end 22 ctime:7 node:frontier_town
+2019/04/16 22:10:06:760 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:frontier_town sid:2
+2019/04/16 22:13:55:658 session_end 22 ctime:229 node:frontier_town
+2019/04/17 00:00:00:001 log_closed

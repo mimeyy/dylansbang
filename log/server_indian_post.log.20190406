@@ -1,0 +1,30 @@
+2019/04/06 00:00:00:011 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/06 06:08:29:713 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:indian_post sid:2
+2019/04/06 06:08:52:151 session_end 6 ctime:23 node:indian_post
+2019/04/06 13:02:21:613 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/06 13:04:41:232 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/06 13:05:38:243 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 13:05:56:814 session_end 15 ctime:19 node:indian_post
+2019/04/06 13:07:06:955 session_end 2 ctime:146 node:indian_post
+2019/04/06 13:10:36:685 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 13:11:50:163 session_end 15 ctime:74 node:indian_post
+2019/04/06 13:11:59:475 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 13:12:04:854 session_end 15 ctime:6 node:indian_post
+2019/04/06 14:29:45:279 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/06 14:30:22:802 session_end 2 ctime:38 node:indian_post
+2019/04/06 14:56:01:794 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 15:02:15:986 game_ended t:338 g:BOUNTY bid:extreme/eva_baxter gid:one won:true 15:@:0:0:none,-2,-2
+2019/04/06 15:02:37:350 session_end 15 ctime:396 node:indian_post
+2019/04/06 16:12:58:538 session_start 10 ip:/102.177.145.46 id:C56d8d4cb7ddfe453dd785abf8972a84f node:indian_post sid:2
+2019/04/06 16:14:26:427 game_ended t:5 g:PRACTICE u:indian_post/dogsoldier 10:#:1:0:none,-2
+2019/04/06 16:16:40:610 session_end 10 ctime:222 node:indian_post
+2019/04/06 17:27:14:125 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 17:27:22:512 session_end 15 ctime:9 node:indian_post
+2019/04/06 17:32:30:343 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 17:38:26:953 session_end 15 ctime:357 node:indian_post
+2019/04/06 19:31:26:175 session_start 4 ip:/136.63.204.223 id:C80eb48eab0818cac01f1c997365d53d5 node:indian_post sid:2
+2019/04/06 19:38:13:441 session_end 4 ctime:407 node:indian_post
+2019/04/06 20:59:07:661 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/06 21:05:16:369 game_ended t:330 g:BOUNTY bid:extreme/eva_baxter gid:two won:false 15:@:0:0:none,-2,-2
+2019/04/06 21:05:54:302 session_end 15 ctime:407 node:indian_post
+2019/04/07 00:00:00:002 log_closed

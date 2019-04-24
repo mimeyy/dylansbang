@@ -1,0 +1,22 @@
+2019/04/04 00:00:00:042 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/04 01:58:15:051 session_start 6 ip:/203.173.154.71 id:C8500d4904c74a4e6dd3b61e614b8ff89 node:indian_post sid:2
+2019/04/04 02:06:50:304 session_end 6 ctime:515 node:indian_post
+2019/04/04 21:44:06:256 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/04 21:44:32:882 session_end 2 ctime:27 node:indian_post
+2019/04/04 21:47:41:273 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 21:47:57:044 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/04 21:51:50:063 session_end 15 ctime:249 node:indian_post
+2019/04/04 21:55:07:291 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 21:58:59:616 session_end 15 ctime:232 node:indian_post
+2019/04/04 22:00:07:892 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 22:08:42:708 game_ended t:501 g:SALOON s:fg ts:2 r:true a:true 2:@:0:125:none,15:@:1:114:DUDS_BOUGHT_1
+2019/04/04 22:19:32:802 game_ended t:602 g:SALOON s:fg ts:2 r:true a:true 2:@:0:135:DISTANCE_MOVED_1,15:@:1:123:TREES_SAVED_1
+2019/04/04 22:21:04:367 session_end 2 ctime:1987 node:indian_post
+2019/04/04 22:21:16:343 session_end 15 ctime:1269 node:indian_post
+2019/04/04 22:27:29:311 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 22:29:09:950 session_end 15 ctime:101 node:indian_post
+2019/04/04 23:24:36:239 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 23:24:44:571 session_end 15 ctime:8 node:indian_post
+2019/04/04 23:44:06:773 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/04 23:47:37:193 session_end 15 ctime:211 node:indian_post
+2019/04/05 00:00:00:003 log_closed

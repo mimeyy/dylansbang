@@ -1,0 +1,12 @@
+2019/04/11 00:00:00:001 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/04/11 12:26:31:600 client_perf u:3 b:4863eece7cf5d0bf3f0cd16ea5cfe96f d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 1, 201, 152)
+2019/04/11 12:26:31:610 client_perf u:17 b:4863eece7cf5d0bf3f0cd16ea5cfe96f d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 0, 0, 2, 155, 197)
+2019/04/11 12:32:11:607 client_perf u:3 b:90176d4ddeda4e5768285b0c4d5ee42a d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 0, 124, 167)
+2019/04/11 12:32:11:624 client_perf u:17 b:90176d4ddeda4e5768285b0c4d5ee42a d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 0, 1, 0, 134, 157)
+2019/04/11 21:54:16:870 client_perf u:17 b:7dbcba0c5e9de533ad83dd15540bed0a d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 1, 1, 1, 162, 157)
+2019/04/11 21:54:16:888 client_perf u:15 b:7dbcba0c5e9de533ad83dd15540bed0a d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 2, 0, 0, 4, 237, 79)
+2019/04/11 22:02:32:311 client_perf u:17 b:71e60d472540441c472f148429a0dc0f d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 0, 0, 2, 202, 195)
+2019/04/11 22:02:32:324 client_perf u:15 b:71e60d472540441c472f148429a0dc0f d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 0, 0, 0, 1, 331, 67)
+2019/04/11 22:09:05:069 client_perf u:17 b:05195835474122e665ea67bc47dbe91a d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 0, 0, 3, 175, 164)
+2019/04/11 22:09:05:135 client_perf u:15 b:05195835474122e665ea67bc47dbe91a d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 0, 0, 1, 0, 261, 80)
+2019/04/12 00:00:00:000 log_closed

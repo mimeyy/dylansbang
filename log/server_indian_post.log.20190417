@@ -1,0 +1,35 @@
+2019/04/17 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/17 17:52:30:175 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 17:53:20:058 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/17 17:55:56:450 session_end 9 ctime:157 node:indian_post
+2019/04/17 17:56:23:354 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/17 17:57:13:690 session_end 20 ctime:284 node:indian_post
+2019/04/17 17:57:30:036 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 18:07:41:736 game_ended t:593 g:SALOON s:fg ts:2 r:true a:true 9:@:1:123:WEEKLY_TOP10_FG,20:@:0:135:none
+2019/04/17 18:10:55:201 game_ended t:70 g:SALOON s:fg ts:2 r:true a:true 20:#:1:0:none,9:@:0:0:none
+2019/04/17 18:19:50:340 game_ended t:499 g:SALOON s:fg ts:2 r:true a:true 20:@:0:143:none,9:@:1:131:TREES_SAVED_2
+2019/04/17 18:30:07:084 game_ended t:540 g:SALOON s:fg ts:2 r:true a:true 20:@:0:132:none,9:@:1:121:none
+2019/04/17 18:39:55:231 game_ended t:559 g:SALOON s:fg ts:2 r:true a:true 20:@:1:137:none,9:@:0:148:none
+2019/04/17 18:48:50:603 game_ended t:495 g:SALOON s:fg ts:2 r:true a:true 9:@:0:144:CARDS_PLAYED_1,20:@:1:132:none
+2019/04/17 18:59:21:928 game_ended t:577 g:SALOON s:fg ts:2 r:true a:true 20:@:1:138:none,9:@:0:150:none
+2019/04/17 19:10:25:713 game_ended t:564 g:SALOON s:fg ts:2 r:true a:true 20:@:1:125:BONUSES_COLLECTED_1,9:@:0:137:BONUSES_COLLECTED_1
+2019/04/17 19:18:55:987 game_ended t:466 g:SALOON s:fg ts:2 r:true a:true 20:@:1:129:none,9:@:0:140:none
+2019/04/17 19:20:25:325 session_end 9 ctime:5042 node:indian_post
+2019/04/17 19:20:26:573 session_end 20 ctime:4977 node:indian_post
+2019/04/17 19:22:06:866 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 19:22:11:339 session_end 20 ctime:5 node:indian_post
+2019/04/17 20:39:27:627 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 20:39:37:735 session_end 20 ctime:10 node:indian_post
+2019/04/17 20:40:49:372 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 20:49:59:768 session_end 20 ctime:551 node:indian_post
+2019/04/17 22:30:36:675 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/17 22:39:49:462 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/17 22:52:41:984 game_ended t:607 g:SALOON s:fg ts:2 r:true a:true 20:@:0:131:none,9:@:1:120:none
+2019/04/17 23:01:43:541 game_ended t:495 g:SALOON s:fg ts:2 r:true a:true 20:@:0:138:none,9:@:1:127:none
+2019/04/17 23:11:50:651 game_ended t:534 g:SALOON s:fg ts:2 r:true a:true 20:@:1:130:none,9:@:0:141:none
+2019/04/17 23:21:53:572 game_ended t:550 g:SALOON s:fg ts:2 r:true a:true 20:@:0:153:none,9:@:1:141:SHOTS_FIRED_1
+2019/04/17 23:34:12:991 game_ended t:565 g:SALOON s:fg ts:2 r:true a:true 20:@:0:136:none,9:@:1:124:none
+2019/04/17 23:45:28:189 game_ended t:590 g:SALOON s:fg ts:2 r:true a:true 20:@:1:137:none,9:@:0:148:none
+2019/04/17 23:55:23:594 game_ended t:529 g:SALOON s:fg ts:2 r:true a:true 20:@:1:118:none,9:@:0:130:none
+2019/04/17 23:58:16:626 game_ended t:95 g:SALOON s:fg ts:2 r:true a:true 20:#:1:15:none,9:@:0:13:none
+2019/04/18 00:00:00:000 log_closed

@@ -1,0 +1,28 @@
+2019/04/09 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/09 11:19:04:680 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/09 11:24:45:066 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/09 11:25:59:757 session_end 20 ctime:75 node:indian_post
+2019/04/09 11:32:17:216 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/09 11:38:10:295 game_ended t:129 g:PRACTICE u:indian_post/dreamcatcher 20:#:1:0:none,-2
+2019/04/09 11:59:15:051 session_end 20 ctime:1618 node:indian_post
+2019/04/09 15:24:14:979 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/09 15:27:47:191 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/09 15:36:48:772 game_ended t:495 g:SALOON s:fg ts:2 r:true a:true 20:@:1:124:TREES_SAVED_4,18:@:0:118:TREES_SAVED_3
+2019/04/09 15:46:00:942 game_ended t:491 g:SALOON s:fg ts:2 r:true a:true 18:@:0:125:GAMES_PLAYED_1,20:@:1:132:GAMES_PLAYED_1
+2019/04/09 15:57:13:650 game_ended t:621 g:SALOON s:fg ts:2 r:true a:true 20:@:0:160:BONUSES_COLLECTED_4,18:@:1:129:TREES_SAVED_4
+2019/04/09 15:58:52:306 session_end 18 ctime:1865 node:indian_post
+2019/04/09 16:09:11:972 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/09 16:09:44:738 game_ended t:11 g:SALOON s:fg ts:2 r:true a:true 20:@:0:0:BETA_TESTER,2:#:1:0:none
+2019/04/09 16:10:16:848 game_ended t:6 g:SALOON s:fg ts:2 r:true a:true 2:#:1:0:none,20:@:0:0:none
+2019/04/09 16:12:07:151 game_ended t:10 g:SALOON s:fg ts:2 r:true a:true 20:@:0:0:none,2:#:1:0:none
+2019/04/09 16:12:40:903 session_end 2 ctime:209 node:indian_post
+2019/04/09 16:12:40:904 game_ended t:12 g:SALOON s:fg ts:2 r:true a:true 2:*:1:0:none,20:@:0:0:none
+2019/04/09 16:13:09:269 session_end 20 ctime:2934 node:indian_post
+2019/04/09 17:44:38:921 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/09 17:45:09:409 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/09 17:56:19:023 game_ended t:586 g:SALOON s:fg ts:2 r:true a:true 20:@:0:140:none,18:@:1:112:BETA_TESTER
+2019/04/09 17:56:57:168 session_end 18 ctime:738 node:indian_post
+2019/04/09 17:57:00:498 session_end 20 ctime:711 node:indian_post
+2019/04/09 20:16:07:721 session_start 18 ip:/73.65.83.37 id:Cefe2b6db11b07af87f5e74ee573d9642 node:indian_post sid:2
+2019/04/09 20:16:16:502 session_end 18 ctime:10 node:indian_post
+2019/04/10 00:00:00:004 log_closed

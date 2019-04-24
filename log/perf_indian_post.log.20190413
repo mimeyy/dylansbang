@@ -1,0 +1,6 @@
+2019/04/13 00:00:00:020 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/13 22:43:02:772 client_perf u:9 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:ATI Technologies Inc., AMD Radeon(TM) R4 Graphics, 4.5.14009 Compatibility Profile Context 21.19.144.1281 h:(0, 3, 66, 335, 33, 4, 0)
+2019/04/13 22:43:02:778 client_perf u:20 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 2, 4, 53, 155, 140, 87)
+2019/04/13 22:53:49:890 client_perf u:20 b:a1e62900e74acdd0e63a4757d2f907a4 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 5, 15, 336, 167, 34)
+2019/04/13 22:53:49:927 client_perf u:9 b:a1e62900e74acdd0e63a4757d2f907a4 d:ATI Technologies Inc., AMD Radeon(TM) R4 Graphics, 4.5.14009 Compatibility Profile Context 21.19.144.1281 h:(0, 0, 1, 45, 282, 227, 2)
+2019/04/14 00:00:00:000 log_closed

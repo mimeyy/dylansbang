@@ -1,0 +1,32 @@
+#!/bin/sh
+#
+# $Id$
+#
+# Command line launcher for Bang! test harnesses
+
+BANG_HOME=`dirname $0`
+BANG_HOME=`cd $BANG_HOME/.. ; pwd`
+ARGS=""
+
+# parse our arguments
+while [ ! -z "$1" ]; do
+    case "$1" in
+        -build)
+            ant
+            if [ $? != 0 ]; then
+                echo "Compilation failed."
+                exit 255
+            fi
+            ;;
+
+        *)
+            ARGS="$ARGS '$1'"
+            ;;
+    esac
+    shift
+done
+
+eval $BANG_HOME/bin/bangjava -Dno_log_redir=true $ARGS
+
+# restore key repeat, which LWJGL borks if the game crashes
+xset r on

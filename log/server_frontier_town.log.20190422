@@ -1,0 +1,7 @@
+2019/04/22 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/22 14:31:08:919 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/22 14:44:38:229 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/22 14:46:47:694 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/22 14:46:58:043 session_end 20 ctime:140 node:frontier_town
+2019/04/22 14:52:21:853 session_end 2 ctime:334 node:frontier_town
+2019/04/23 00:00:00:000 log_closed

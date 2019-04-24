@@ -1,0 +1,28 @@
+2019/03/29 00:00:00:001 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 00:10:00:921 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 00:10:08:928 log_closed
+2019/03/29 00:15:25:451 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 00:15:33:353 log_closed
+2019/03/29 00:16:39:119 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 00:16:47:149 log_closed
+2019/03/29 00:19:25:933 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 00:19:33:851 log_closed
+2019/03/29 00:23:28:914 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 01:55:11:465 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 02:12:24:408 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 12:25:41:113 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 12:40:28:537 client_perf u:1 b:842493ede2c711a47c9c02e01d22e1c7 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 4, 190, 101)
+2019/03/29 12:48:20:292 client_perf u:1 b:7ec316330dcfe4bf50da9961326bed01 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 1, 292, 157)
+2019/03/29 12:54:40:141 client_perf u:1 b:4c290053c0c870346eb1943edbac949d d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 4, 299, 40)
+2019/03/29 13:00:49:531 client_perf u:1 b:1284a28848823cb767228f470947f215 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 10, 288, 45)
+2019/03/29 13:05:59:356 client_perf u:1 b:c566b4a1950218add4b7941889aa0496 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 1, 60, 42)
+2019/03/29 14:30:49:810 client_perf u:2 b:842493ede2c711a47c9c02e01d22e1c7 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 1, 0, 14, 72, 147, 62)
+2019/03/29 14:42:59:237 client_perf u:2 b:a49ef2a36966aa4ce2962a0f5e8f8405 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 2, 2, 45, 231, 96)
+2019/03/29 14:42:59:463 client_perf u:3 b:a49ef2a36966aa4ce2962a0f5e8f8405 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 8, 260, 108)
+2019/03/29 15:30:13:587 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 17:54:26:547 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 21:49:20:958 client_perf u:2 b:7ec316330dcfe4bf50da9961326bed01 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 1, 2, 5, 61, 267, 80)
+2019/03/29 23:28:18:120 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/29 23:28:26:005 log_closed
+2019/03/29 23:30:26:370 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/03/30 00:00:00:000 log_closed

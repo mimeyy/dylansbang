@@ -1,0 +1,27 @@
+2019/04/16 00:00:00:036 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/16 18:00:17:248 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/16 18:05:11:138 session_end 9 ctime:294 node:indian_post
+2019/04/16 18:06:19:211 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/16 18:06:50:300 session_end 9 ctime:31 node:indian_post
+2019/04/16 18:07:13:929 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/16 18:07:55:107 session_end 9 ctime:41 node:indian_post
+2019/04/16 20:53:11:509 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/16 20:55:34:152 game_ended t:104 g:PRACTICE u:indian_post/dreamcatcher 20:#:1:0:none,-2
+2019/04/16 20:59:50:847 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:indian_post sid:2
+2019/04/16 21:00:49:672 session_end 22 ctime:59 node:indian_post
+2019/04/16 21:01:15:548 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:indian_post sid:2
+2019/04/16 21:01:50:020 session_end 22 ctime:35 node:indian_post
+2019/04/16 21:05:14:627 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:indian_post sid:2
+2019/04/16 21:07:15:182 session_end 22 ctime:121 node:indian_post
+2019/04/16 21:08:11:132 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:indian_post sid:2
+2019/04/16 21:17:50:251 game_ended t:557 g:SALOON s:fg ts:2 r:true a:true 20:@:0:137:WEEKLY_TOP10_FG,22:@:1:125:BETA_TESTER
+2019/04/16 21:30:03:950 game_ended t:581 g:SALOON s:fg ts:2 r:true a:true 22:@:0:139:HIGHEST_POINTS_1,20:@:1:128:WEEKLY_WINNER_FG
+2019/04/16 21:39:26:320 game_ended t:509 g:SALOON s:fg ts:2 r:true a:true 22:@:0:140:TREES_SAVED_1,20:@:1:129:none
+2019/04/16 21:49:13:979 game_ended t:521 g:SALOON s:fg ts:2 r:true a:true 22:@:0:140:TREES_SAVED_4,20:@:1:129:none
+2019/04/16 21:59:26:358 game_ended t:518 g:SALOON s:fg ts:2 r:true a:true 22:@:0:140:GAMES_PLAYED_1,20:@:1:129:none
+2019/04/16 22:07:57:561 game_ended t:462 g:SALOON s:fg ts:2 r:true a:true 22:@:0:144:none,20:@:1:132:none
+2019/04/16 22:09:26:388 session_end 20 ctime:4575 node:indian_post
+2019/04/16 22:10:05:727 session_end 22 ctime:3715 node:indian_post
+2019/04/16 22:13:56:598 session_start 22 ip:/199.116.119.7 id:C7e5bda418664a9c48f21c78a3f3a0494 node:indian_post sid:2
+2019/04/16 22:14:50:780 session_end 22 ctime:54 node:indian_post
+2019/04/17 00:00:00:000 log_closed

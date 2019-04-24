@@ -1,0 +1,26 @@
+2019/04/05 00:00:00:004 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/05 11:07:24:134 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/05 20:34:53:793 item_created id:340 oid:15 type:com.threerings.bang.data.Article
+2019/04/05 20:34:53:821 store_purchase 15 t:ArticleGood s:2000 c:0
+2019/04/05 20:46:41:278 item_created id:341 oid:15 type:com.threerings.bang.data.Article
+2019/04/05 20:46:41:307 store_purchase 15 t:ArticleGood s:3250 c:0
+2019/04/05 20:53:29:607 item_created id:346 oid:15 type:com.threerings.bang.data.Star
+2019/04/05 20:53:29:634 store_purchase 15 t:StarGood s:1000 c:0
+2019/04/05 20:53:31:066 item_created id:347 oid:15 type:com.threerings.bang.data.Star
+2019/04/05 20:53:31:093 store_purchase 15 t:StarGood s:2000 c:0
+2019/04/05 20:53:32:451 item_created id:348 oid:15 type:com.threerings.bang.data.Star
+2019/04/05 20:53:32:480 store_purchase 15 t:StarGood s:3000 c:0
+2019/04/05 21:17:11:310 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:13:675 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:22:002 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:23:478 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:25:123 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:26:633 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:28:225 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:29:751 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:31:283 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:32:928 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:34:838 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:37:359 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/05 21:17:45:662 store_purchase 2 t:CardPackGood s:0 c:0
+2019/04/06 00:00:00:010 log_closed

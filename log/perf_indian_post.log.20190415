@@ -1,0 +1,6 @@
+2019/04/15 00:00:00:001 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/15 23:13:09:629 client_perf u:17 b:fc185f6c4b89a6a91d99bcf9af3d7c70 d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 1, 2, 0, 259, 265)
+2019/04/15 23:13:09:683 client_perf u:3 b:fc185f6c4b89a6a91d99bcf9af3d7c70 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 1, 0, 0, 451, 75)
+2019/04/15 23:26:22:590 client_perf u:17 b:eacd32b9bf0ba5de1fe89df245243df5 d:Intel, Intel(R) UHD Graphics 620, 4.5.0 - Build 25.20.100.6323 h:(0, 0, 0, 0, 1, 279, 279)
+2019/04/15 23:26:22:616 client_perf u:3 b:eacd32b9bf0ba5de1fe89df245243df5 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 3, 321, 235)
+2019/04/16 00:00:00:000 log_closed

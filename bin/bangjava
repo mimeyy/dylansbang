@@ -1,0 +1,64 @@
+#!/bin/sh
+#
+# $Id$
+#
+# Sets up standard Bang! bits and runs java
+
+BANG_HOME=`dirname $0`
+BANG_HOME=`cd $BANG_HOME/.. ; pwd`
+
+umask 002
+
+# set up our java arguments
+JAVA_ARGS="-Dno_unpack_resources=true \
+    -Dbang.home=$BANG_HOME \
+    -Dresource_dir=$BANG_HOME/assets/build/staging/rsrc \
+    -Drsrc_cache_dir=/tmp"
+
+JARS="server"
+
+# extract -D arguments so that we can put them before the classname
+while [ ! -z "$1" ]; do
+    case "$1" in
+        -nodevlibs)
+            NODEVLIBS=true
+            ;;
+
+        -yjp)
+            export LD_LIBRARY_PATH=$HOME/lib/yjp-5.5.2/bin/linux-x86-32
+            JAVA_ARGS="-agentlib:yjpagent $JAVA_ARGS"
+            JAVA_ARGS="-Dprofiling=true $JAVA_ARGS"
+            ;;
+
+        -debugger)
+            JDWP_ARGS="transport=dt_socket,server=y,address=8000,suspend=n";
+            JAVA_ARGS="-agentlib:jdwp=$JDWP_ARGS $JAVA_ARGS"
+            ;;
+
+        -client)
+            JARS="client"
+            JAVA_ARGS="-Dappdir=$BANG_HOME/assets/build/staging $JAVA_ARGS"
+            ;;
+
+        -D*)
+            JAVA_ARGS="$JAVA_ARGS $1"
+            ;;
+
+        *)
+            ARGS="$ARGS $1"
+            ;;
+    esac
+    shift
+done
+
+# add all necessary JAR files and $BANG_HOME to the CLASSPATH
+CLASSPATH="$BANG_HOME/assets/build/staging"
+
+for JAR in $BANG_HOME/build/$JARS/*.jar; do
+    CLASSPATH=$CLASSPATH:$JAR
+done
+export CLASSPATH
+
+# do the deed
+echo java $JAVA_ARGS $ARGS
+exec java $JAVA_ARGS $ARGS

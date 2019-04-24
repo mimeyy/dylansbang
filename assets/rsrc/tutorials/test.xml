@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+
+<tutorial ident="test" board="Sunset Raid" players="2">
+  <show_view name="player_status"/>
+
+  <add_piece what="unit" id="1000" type="frontier_town/gunslinger"
+     location="16,16" owner="0"/>
+  <add_piece what="unit" id="1001" type="frontier_town/artillery"
+     location="17,17" owner="1"/>
+  <add_piece what="unit" id="1002" type="frontier_town/tactician"
+     location="16,14" owner="0"/>
+  <add_piece what="unit" id="1003" type="frontier_town/dirigible"
+     location="14,14" owner="1"/>
+  <add_piece what="unit" id="1004" type="frontier_town/cow" location="14,17"
+     owner="-1"/>
+  <add_piece what="unit" id="1005" type="frontier_town/cow" location="15,15"
+     owner="-1"/>
+
+  <add_piece what="bonus" type="frontier_town/card" location="14,18"/>
+
+  <text message="start_test"/>
+  <wait event="text_clicked"/>
+
+  <move_unit id="1000" target="1001"/>
+  <wait event="text_clicked"/>
+  <move_unit id="1002" target="1003"/>
+  <wait event="text_clicked"/>
+  <move_unit id="1003" target="1000"/>
+  
+  <text message="end_test"/>
+  <wait event="text_clicked"/>
+</tutorial>

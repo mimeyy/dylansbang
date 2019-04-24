@@ -1,0 +1,42 @@
+2019/02/09 17:43:35:462 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 17:44:24:147 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 17:44:44:197 log_closed
+2019/02/09 17:50:42:312 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 17:50:59:446 log_closed
+2019/02/09 17:53:02:336 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 17:53:19:079 log_closed
+2019/02/09 18:01:05:828 log_closed
+2019/02/09 18:02:16:568 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:07:29:745 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:07:47:023 log_closed
+2019/02/09 18:08:17:251 log_closed
+2019/02/09 18:08:22:544 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:11:03:793 log_closed
+2019/02/09 18:16:45:144 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:19:33:854 log_closed
+2019/02/09 18:30:05:312 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:34:44:811 first_timer 1 account
+2019/02/09 18:34:47:396 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 18:39:39:557 game_ended t:180 g:BOUNTY bid:easy/pecos_bill gid:one won:false 1:#:1:0:none,-2
+2019/02/09 18:42:44:348 session_resume 1 ip:/127.0.0.1
+2019/02/09 18:45:17:100 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:45:37:122 log_closed
+2019/02/09 18:45:43:623 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 18:46:20:289 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 18:46:59:885 session_resume 1 ip:/127.0.0.1
+2019/02/09 18:47:02:482 session_end 1 ctime:32 node:frontier_town
+2019/02/09 18:47:05:767 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 18:47:10:148 session_end 1 ctime:6 node:frontier_town
+2019/02/09 18:47:13:302 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 18:54:50:028 session_end 1 ctime:8 node:frontier_town
+2019/02/09 19:05:30:526 log_closed
+2019/02/09 19:06:46:832 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 19:07:11:430 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 19:15:03:932 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 19:15:21:001 log_closed
+2019/02/09 20:32:09:120 log_closed
+2019/02/09 20:32:56:757 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/09 20:33:35:204 session_start 1 ip:/127.0.0.1 id:C59a572368b2099fa1f6d58571e5e890b node:frontier_town sid:2
+2019/02/09 20:41:53:483 log_closed
+2019/02/09 20:42:08:145 log_opened /Users/dylanrederer/bang-game-master/log/server_frontier_town.log
+2019/02/10 13:12:40:145 log_closed

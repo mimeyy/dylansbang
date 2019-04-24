@@ -1,0 +1,22 @@
+2019/04/07 00:00:00:002 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/07 13:09:40:508 item_created id:431 oid:20 type:com.threerings.bang.data.Purse
+2019/04/07 13:09:40:535 store_purchase 20 t:PurseGood s:3000 c:0
+2019/04/07 13:09:42:136 item_created id:432 oid:20 type:com.threerings.bang.data.UnitPass
+2019/04/07 13:09:42:162 store_purchase 20 t:UnitPassGood s:1000 c:0
+2019/04/07 13:09:43:830 item_created id:433 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:09:43:857 store_purchase 20 t:StarGood s:1000 c:0
+2019/04/07 13:09:45:923 item_created id:434 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:09:45:951 store_purchase 20 t:StarGood s:2000 c:0
+2019/04/07 13:09:47:421 item_created id:435 oid:20 type:com.threerings.bang.data.Star
+2019/04/07 13:09:47:448 store_purchase 20 t:StarGood s:3000 c:0
+2019/04/07 13:10:38:445 item_created id:436 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:10:38:472 store_purchase 20 t:ArticleGood s:3000 c:0
+2019/04/07 13:10:46:033 item_created id:437 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:10:46:060 store_purchase 20 t:ArticleGood s:1000 c:0
+2019/04/07 13:11:17:318 item_created id:438 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:11:17:345 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/07 13:11:23:924 item_created id:439 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:11:23:951 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/07 13:11:31:215 item_created id:440 oid:20 type:com.threerings.bang.data.Article
+2019/04/07 13:11:31:243 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/08 00:00:00:001 log_closed

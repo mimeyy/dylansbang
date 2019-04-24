@@ -1,0 +1,10 @@
+2019/04/23 00:00:00:037 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/23 12:02:39:838 log_closed
+2019/04/23 12:10:46:151 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/23 12:12:02:133 item_created id:768 oid:20 type:com.threerings.bang.data.CardItem
+2019/04/23 12:12:02:162 store_purchase 20 t:CardTripletGood s:50 c:0
+2019/04/23 12:12:09:744 store_purchase 20 t:CardPackGood s:460 c:0
+2019/04/23 12:12:12:577 store_purchase 20 t:CardPackGood s:460 c:0
+2019/04/23 12:12:15:643 store_purchase 20 t:CardPackGood s:460 c:0
+2019/04/23 12:12:18:359 store_purchase 20 t:CardPackGood s:460 c:0
+2019/04/24 00:00:00:000 log_closed

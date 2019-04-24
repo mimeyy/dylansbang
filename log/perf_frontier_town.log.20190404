@@ -1,0 +1,6 @@
+2019/04/04 00:00:00:036 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/04/04 23:35:31:377 client_perf u:3 b:06d2a173684737b090045d6a30632e7e d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 1, 150, 234)
+2019/04/04 23:35:31:395 client_perf u:15 b:06d2a173684737b090045d6a30632e7e d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 0, 1, 0, 3, 314, 67)
+2019/04/04 23:41:45:892 client_perf u:15 b:28e581ebb2bddea87cb2f20c2ea8e4b9 d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 0, 0, 2, 2, 256, 43)
+2019/04/04 23:41:45:896 client_perf u:3 b:28e581ebb2bddea87cb2f20c2ea8e4b9 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 0, 0, 108, 195)
+2019/04/05 00:00:00:004 log_closed

@@ -1,0 +1,41 @@
+2019/04/06 00:00:00:012 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/06 13:02:21:613 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/06 13:02:51:190 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/06 13:04:40:203 session_end 2 ctime:109 node:frontier_town
+2019/04/06 13:05:57:976 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 13:10:35:599 session_end 15 ctime:278 node:frontier_town
+2019/04/06 13:11:51:299 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 13:11:58:121 session_end 15 ctime:7 node:frontier_town
+2019/04/06 13:12:05:995 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 13:19:34:632 game_ended t:306 g:BOUNTY bid:extreme/the_shark gid:steer won:false 15:#:1:0:none,-2
+2019/04/06 13:24:11:597 game_ended t:277 g:BOUNTY bid:extreme/the_shark gid:steer won:false 15:#:1:0:none,-2
+2019/04/06 13:24:56:925 session_end 15 ctime:771 node:frontier_town
+2019/04/06 14:30:23:800 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/06 14:35:05:568 session_end 2 ctime:282 node:frontier_town
+2019/04/06 14:55:46:160 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 14:56:00:621 session_end 15 ctime:15 node:frontier_town
+2019/04/06 16:08:43:375 session_start 9 ip:/102.177.145.46 id:C56d8d4cb7ddfe453dd785abf8972a84f node:frontier_town sid:2
+2019/04/06 16:09:36:913 session_end 9 ctime:54 node:frontier_town
+2019/04/06 16:10:01:541 session_start 10 ip:/102.177.145.46 id:C56d8d4cb7ddfe453dd785abf8972a84f node:frontier_town sid:2
+2019/04/06 16:12:57:359 session_end 10 ctime:176 node:frontier_town
+2019/04/06 16:16:41:735 session_start 10 ip:/102.177.145.46 id:C56d8d4cb7ddfe453dd785abf8972a84f node:frontier_town sid:2
+2019/04/06 16:18:49:099 session_end 10 ctime:127 node:frontier_town
+2019/04/06 17:27:23:655 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 17:32:29:206 session_end 15 ctime:306 node:frontier_town
+2019/04/06 17:38:28:086 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 17:47:20:425 session_end 15 ctime:532 node:frontier_town
+2019/04/06 19:30:08:018 session_start 4 ip:/136.63.204.223 id:C80eb48eab0818cac01f1c997365d53d5 node:frontier_town sid:2
+2019/04/06 19:31:25:172 session_end 4 ctime:77 node:frontier_town
+2019/04/06 19:38:14:522 session_start 4 ip:/136.63.204.223 id:C80eb48eab0818cac01f1c997365d53d5 node:frontier_town sid:2
+2019/04/06 19:39:07:116 session_end 4 ctime:53 node:frontier_town
+2019/04/06 20:58:55:816 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 20:59:06:570 session_end 15 ctime:11 node:frontier_town
+2019/04/06 21:05:55:473 session_start 15 ip:/81.154.171.203 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/06 21:15:54:181 session_end 15 ctime:599 node:frontier_town
+2019/04/06 23:28:12:990 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/06 23:28:21:787 session_end 3 ctime:9 node:frontier_town
+2019/04/06 23:28:46:148 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/06 23:30:11:073 session_end 3 ctime:85 node:frontier_town
+2019/04/06 23:30:35:164 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/06 23:30:36:901 session_end 3 ctime:2 node:frontier_town
+2019/04/07 00:00:00:003 log_closed

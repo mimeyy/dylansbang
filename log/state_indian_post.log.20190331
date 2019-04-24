@@ -1,0 +1,144 @@
+2019/03/29 15:59:52:093 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/29 16:15:00:185 State of server report:
+- Uptime: 15m 5s 504m
+- Report period: 15m 5s 504m
+- Memory: 77731k used, 152576k total, 349696k max
+2019/03/29 16:30:00:185 State of server report:
+- Uptime: 30m 5s 505m
+- Report period: 15m 1m
+- Memory: 80781k used, 152576k total, 349696k max
+2019/03/29 16:45:00:184 State of server report:
+- Uptime: 45m 5s 504m
+- Report period: 14m 59s 999m
+- Memory: 82808k used, 152576k total, 349696k max
+2019/03/29 16:51:44:229 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/29 17:06:51:611 State of server report:
+- Uptime: 15m 5s 202m
+- Report period: 15m 5s 202m
+- Memory: 71333k used, 162304k total, 349696k max
+2019/03/29 17:21:51:610 State of server report:
+- Uptime: 30m 5s 201m
+- Report period: 14m 59s 999m
+- Memory: 75570k used, 162304k total, 349696k max
+2019/03/29 17:36:51:610 State of server report:
+- Uptime: 45m 5s 201m
+- Report period: 15m 0m
+- Memory: 77271k used, 162304k total, 349696k max
+2019/03/30 12:49:26:057 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/30 12:49:33:988 log_closed
+2019/03/31 15:19:53:512 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 15:35:00:872 State of server report:
+- Uptime: 15m 5s 72m
+- Report period: 15m 5s 72m
+- Memory: 71554k used, 160256k total, 349696k max
+2019/03/31 15:50:00:870 State of server report:
+- Uptime: 30m 5s 72m
+- Report period: 15m 0m
+- Memory: 73237k used, 160256k total, 349696k max
+2019/03/31 16:05:00:870 State of server report:
+- Uptime: 45m 5s 72m
+- Report period: 15m 0m
+- Memory: 74917k used, 160256k total, 349696k max
+2019/03/31 16:20:00:870 State of server report:
+- Uptime: 1h 5s 72m
+- Report period: 15m 0m
+- Memory: 76596k used, 160256k total, 349696k max
+2019/03/31 16:35:00:870 State of server report:
+- Uptime: 1h 15m 5s 72m
+- Report period: 15m 0m
+- Memory: 77436k used, 160256k total, 349696k max
+2019/03/31 16:52:31:659 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 17:39:35:411 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 17:56:00:464 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 18:11:07:687 State of server report:
+- Uptime: 15m 5s 6m
+- Report period: 15m 5s 6m
+- Memory: 79124k used, 158208k total, 349696k max
+2019/03/31 18:26:07:687 State of server report:
+- Uptime: 30m 5s 6m
+- Report period: 15m 0m
+- Memory: 82278k used, 158208k total, 349696k max
+2019/03/31 18:41:07:688 State of server report:
+- Uptime: 45m 5s 7m
+- Report period: 15m 1m
+- Memory: 85432k used, 158208k total, 349696k max
+2019/03/31 18:56:07:687 State of server report:
+- Uptime: 1h 5s 6m
+- Report period: 14m 59s 999m
+- Memory: 87009k used, 158208k total, 349696k max
+2019/03/31 19:11:07:687 State of server report:
+- Uptime: 1h 15m 5s 6m
+- Report period: 15m 0m
+- Memory: 90952k used, 158208k total, 349696k max
+2019/03/31 19:26:07:688 State of server report:
+- Uptime: 1h 30m 5s 7m
+- Report period: 15m 1m
+- Memory: 93317k used, 158208k total, 349696k max
+2019/03/31 19:41:07:687 State of server report:
+- Uptime: 1h 45m 5s 6m
+- Report period: 14m 59s 999m
+- Memory: 95683k used, 158208k total, 349696k max
+2019/03/31 19:56:07:687 State of server report:
+- Uptime: 2h 5s 6m
+- Report period: 15m 0m
+- Memory: 99613k used, 158208k total, 349696k max
+2019/03/31 20:11:07:687 State of server report:
+- Uptime: 2h 15m 5s 6m
+- Report period: 15m 0m
+- Memory: 102767k used, 158208k total, 349696k max
+2019/03/31 20:26:07:687 State of server report:
+- Uptime: 2h 30m 5s 6m
+- Report period: 15m 0m
+- Memory: 107499k used, 158208k total, 349696k max
+2019/03/31 20:41:07:687 State of server report:
+- Uptime: 2h 45m 5s 6m
+- Report period: 15m 0m
+- Memory: 109865k used, 158208k total, 349696k max
+2019/03/31 20:56:07:688 State of server report:
+- Uptime: 3h 5s 7m
+- Report period: 15m 1m
+- Memory: 112230k used, 158208k total, 349696k max
+2019/03/31 21:11:07:688 State of server report:
+- Uptime: 3h 15m 5s 6m
+- Report period: 14m 59s 999m
+- Memory: 38423k used, 154624k total, 349696k max
+2019/03/31 21:26:07:688 State of server report:
+- Uptime: 3h 30m 5s 7m
+- Report period: 15m 1m
+- Memory: 40625k used, 154624k total, 349696k max
+2019/03/31 21:41:07:687 State of server report:
+- Uptime: 3h 45m 5s 6m
+- Report period: 14m 59s 999m
+- Memory: 43390k used, 154624k total, 349696k max
+2019/03/31 21:56:07:688 State of server report:
+- Uptime: 4h 5s 7m
+- Report period: 15m 1m
+- Memory: 46114k used, 154624k total, 349696k max
+2019/03/31 22:11:07:687 State of server report:
+- Uptime: 4h 15m 5s 6m
+- Report period: 14m 59s 999m
+- Memory: 47786k used, 154624k total, 349696k max
+2019/03/31 22:26:07:687 State of server report:
+- Uptime: 4h 30m 5s 6m
+- Report period: 15m 0m
+- Memory: 50510k used, 154624k total, 349696k max
+2019/03/31 22:41:07:688 State of server report:
+- Uptime: 4h 45m 5s 7m
+- Report period: 15m 1m
+- Memory: 52705k used, 154624k total, 349696k max
+2019/03/31 22:55:58:243 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 23:09:09:849 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 23:11:54:048 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/03/31 23:27:01:546 State of server report:
+- Uptime: 15m 5s 253m
+- Report period: 15m 5s 253m
+- Memory: 83437k used, 161792k total, 349696k max
+2019/03/31 23:42:01:545 State of server report:
+- Uptime: 30m 5s 252m
+- Report period: 14m 59s 999m
+- Memory: 86017k used, 161792k total, 349696k max
+2019/03/31 23:57:01:546 State of server report:
+- Uptime: 45m 5s 253m
+- Report period: 15m 1m
+- Memory: 88602k used, 161792k total, 349696k max
+2019/04/01 00:00:00:003 log_closed

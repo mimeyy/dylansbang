@@ -1,0 +1,14 @@
+2019/04/02 00:00:00:012 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/02 13:04:28:747 client_perf u:2 b:10025b646cc26297ecddf96b32f75a27 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 1, 0, 3, 407, 138)
+2019/04/02 13:04:28:784 client_perf u:3 b:10025b646cc26297ecddf96b32f75a27 d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 37, 415, 96)
+2019/04/02 13:16:26:453 client_perf u:2 b:76c6809a6449622b704e32d0e25d617b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 0, 1, 391, 103)
+2019/04/02 13:16:26:501 client_perf u:3 b:76c6809a6449622b704e32d0e25d617b d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 26, 401, 67)
+2019/04/02 13:26:41:729 client_perf u:2 b:2b79f8cf0a09b773026333e78b7373dc d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 0, 1, 324, 142)
+2019/04/02 13:26:41:797 client_perf u:3 b:2b79f8cf0a09b773026333e78b7373dc d:Intel, Intel(R) HD Graphics 620, 4.5.0 - Build 22.20.16.4771 h:(0, 0, 0, 1, 15, 372, 79)
+2019/04/03 00:16:55:537 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/03 12:53:16:426 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/03 16:03:25:918 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/03 23:30:26:747 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/03 23:38:17:650 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/03 23:44:01:270 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/04 00:00:00:036 log_closed

@@ -1,0 +1,5 @@
+2019/04/06 00:00:00:011 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/06 13:02:21:643 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/06 15:02:16:280 client_perf u:15 b:14b64fba4e3c1541a01844d729b2bbf7 d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 2, 1, 2, 3, 257, 57)
+2019/04/06 21:05:16:636 client_perf u:15 b:176630d6fe60b15cba54b5b207cd0b68 d:ATI Technologies Inc., AMD Radeon(TM) R7 Graphics, 4.5.13492 Compatibility Profile Context 22.19.677.257 h:(0, 1, 0, 1, 6, 273, 42)
+2019/04/07 00:00:00:003 log_closed

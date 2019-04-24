@@ -1,0 +1,33 @@
+<!-- project build configuration -->
+<project name="Bang Metadata web application" default="help" basedir=".">
+
+  <!-- load up our configuration information -->
+  <property file="build.properties"/>
+  <property name="base.dir" value="../.."/>
+
+  <!-- the web application name and derived parameters -->
+  <property name="app.name"    value="bangmeta"/>
+  <property name="webapp_dir" value="${base.dir}/webapps"/>
+  <property name="install.dir"  value="${webapp_dir}/${app.name}"/>
+
+  <!-- cleans out the install directory -->
+  <target name="clean">
+    <delete dir="${install.dir}"/>
+  </target>
+
+  <!-- cleans out the install directory -->
+  <target name="install">
+    <mkdir dir="${install.dir}"/>
+    <exec executable="rsync">
+      <arg line="-ar"/>
+      <arg line="--exclude"/>
+      <arg line=".svn"/>
+      <arg line="app"/>
+      <arg line="components"/>
+      <arg line="config"/>
+      <arg line="public"/>
+      <arg line="${install.dir}"/>
+    </exec>
+    <mkdir dir="${install.dir}/log"/>
+  </target>
+</project>

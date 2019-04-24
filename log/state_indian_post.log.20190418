@@ -1,0 +1,386 @@
+2019/04/18 00:00:00:001 log_opened /home/dylan/dylansbang/log/state_indian_post.log
+2019/04/18 00:13:56:057 State of server report:
+- Uptime: 5d 5h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 31806k used, 121344k total, 349696k max
+2019/04/18 00:28:56:058 State of server report:
+- Uptime: 5d 5h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 34420k used, 121344k total, 349696k max
+2019/04/18 00:43:56:057 State of server report:
+- Uptime: 5d 5h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 36608k used, 121344k total, 349696k max
+2019/04/18 00:58:56:057 State of server report:
+- Uptime: 5d 6h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 39397k used, 121344k total, 349696k max
+2019/04/18 01:13:56:057 State of server report:
+- Uptime: 5d 6h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 41842k used, 121344k total, 349696k max
+2019/04/18 01:28:56:057 State of server report:
+- Uptime: 5d 6h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 44543k used, 121344k total, 349696k max
+2019/04/18 01:43:56:057 State of server report:
+- Uptime: 5d 6h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 46906k used, 121344k total, 349696k max
+2019/04/18 01:58:56:057 State of server report:
+- Uptime: 5d 7h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 49645k used, 121344k total, 349696k max
+2019/04/18 02:13:56:058 State of server report:
+- Uptime: 5d 7h 15m 5s 766m
+- Report period: 15m 1m
+- Memory: 52143k used, 121344k total, 349696k max
+2019/04/18 02:28:56:057 State of server report:
+- Uptime: 5d 7h 30m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 54887k used, 121344k total, 349696k max
+2019/04/18 02:43:56:057 State of server report:
+- Uptime: 5d 7h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 57381k used, 121344k total, 349696k max
+2019/04/18 02:58:56:057 State of server report:
+- Uptime: 5d 8h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 59871k used, 121344k total, 349696k max
+2019/04/18 03:13:56:057 State of server report:
+- Uptime: 5d 8h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 62484k used, 121344k total, 349696k max
+2019/04/18 03:28:56:057 State of server report:
+- Uptime: 5d 8h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 65184k used, 121344k total, 349696k max
+2019/04/18 03:43:56:057 State of server report:
+- Uptime: 5d 8h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 67678k used, 121344k total, 349696k max
+2019/04/18 03:58:56:057 State of server report:
+- Uptime: 5d 9h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 70172k used, 121344k total, 349696k max
+2019/04/18 04:13:56:057 State of server report:
+- Uptime: 5d 9h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 72920k used, 121344k total, 349696k max
+2019/04/18 04:28:56:057 State of server report:
+- Uptime: 5d 9h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 75280k used, 121344k total, 349696k max
+2019/04/18 04:43:56:058 State of server report:
+- Uptime: 5d 9h 45m 5s 766m
+- Report period: 15m 1m
+- Memory: 32972k used, 122880k total, 349696k max
+2019/04/18 04:58:56:057 State of server report:
+- Uptime: 5d 10h 0m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 35239k used, 122880k total, 349696k max
+2019/04/18 05:13:56:057 State of server report:
+- Uptime: 5d 10h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 38248k used, 122880k total, 349696k max
+2019/04/18 05:28:56:057 State of server report:
+- Uptime: 5d 10h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 40507k used, 122880k total, 349696k max
+2019/04/18 05:43:56:057 State of server report:
+- Uptime: 5d 10h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 43107k used, 122880k total, 349696k max
+2019/04/18 05:58:56:057 State of server report:
+- Uptime: 5d 11h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 46000k used, 122880k total, 349696k max
+2019/04/18 06:13:56:057 State of server report:
+- Uptime: 5d 11h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 48259k used, 122880k total, 349696k max
+2019/04/18 06:28:56:057 State of server report:
+- Uptime: 5d 11h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 51008k used, 122880k total, 349696k max
+2019/04/18 06:43:56:057 State of server report:
+- Uptime: 5d 11h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 53287k used, 122880k total, 349696k max
+2019/04/18 06:58:56:058 State of server report:
+- Uptime: 5d 12h 0m 5s 766m
+- Report period: 15m 1m
+- Memory: 56044k used, 122880k total, 349696k max
+2019/04/18 07:13:56:057 State of server report:
+- Uptime: 5d 12h 15m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 58571k used, 122880k total, 349696k max
+2019/04/18 07:28:56:057 State of server report:
+- Uptime: 5d 12h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 61306k used, 122880k total, 349696k max
+2019/04/18 07:43:56:057 State of server report:
+- Uptime: 5d 12h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 63723k used, 122880k total, 349696k max
+2019/04/18 07:58:56:057 State of server report:
+- Uptime: 5d 13h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 66327k used, 122880k total, 349696k max
+2019/04/18 08:13:56:058 State of server report:
+- Uptime: 5d 13h 15m 5s 766m
+- Report period: 15m 1m
+- Memory: 68999k used, 122880k total, 349696k max
+2019/04/18 08:28:56:058 State of server report:
+- Uptime: 5d 13h 30m 5s 766m
+- Report period: 15m 0m
+- Memory: 71610k used, 122880k total, 349696k max
+2019/04/18 08:43:56:057 State of server report:
+- Uptime: 5d 13h 45m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 74035k used, 122880k total, 349696k max
+2019/04/18 08:58:56:057 State of server report:
+- Uptime: 5d 14h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 31802k used, 120832k total, 349696k max
+2019/04/18 09:13:56:058 State of server report:
+- Uptime: 5d 14h 15m 5s 766m
+- Report period: 15m 1m
+- Memory: 34230k used, 120832k total, 349696k max
+2019/04/18 09:28:56:057 State of server report:
+- Uptime: 5d 14h 30m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 36658k used, 120832k total, 349696k max
+2019/04/18 09:43:56:057 State of server report:
+- Uptime: 5d 14h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 39619k used, 120832k total, 349696k max
+2019/04/18 09:58:56:057 State of server report:
+- Uptime: 5d 15h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 42143k used, 120832k total, 349696k max
+2019/04/18 10:13:56:057 State of server report:
+- Uptime: 5d 15h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 44587k used, 120832k total, 349696k max
+2019/04/18 10:28:56:058 State of server report:
+- Uptime: 5d 15h 30m 5s 766m
+- Report period: 15m 1m
+- Memory: 47019k used, 120832k total, 349696k max
+2019/04/18 10:43:56:057 State of server report:
+- Uptime: 5d 15h 45m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 49447k used, 120832k total, 349696k max
+2019/04/18 10:58:56:057 State of server report:
+- Uptime: 5d 16h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 52339k used, 120832k total, 349696k max
+2019/04/18 11:13:56:057 State of server report:
+- Uptime: 5d 16h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 54940k used, 120832k total, 349696k max
+2019/04/18 11:28:56:057 State of server report:
+- Uptime: 5d 16h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 57367k used, 120832k total, 349696k max
+2019/04/18 11:43:56:057 State of server report:
+- Uptime: 5d 16h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 59803k used, 120832k total, 349696k max
+2019/04/18 11:58:56:057 State of server report:
+- Uptime: 5d 17h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 62331k used, 120832k total, 349696k max
+2019/04/18 12:13:56:058 State of server report:
+- Uptime: 5d 17h 15m 5s 766m
+- Report period: 15m 1m
+- Memory: 65136k used, 120832k total, 349696k max
+2019/04/18 12:28:56:057 State of server report:
+- Uptime: 5d 17h 30m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 67728k used, 120832k total, 349696k max
+2019/04/18 12:43:56:057 State of server report:
+- Uptime: 5d 17h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 70159k used, 120832k total, 349696k max
+2019/04/18 12:58:56:057 State of server report:
+- Uptime: 5d 18h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 72683k used, 120832k total, 349696k max
+2019/04/18 13:13:56:057 State of server report:
+- Uptime: 5d 18h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 75123k used, 120832k total, 349696k max
+2019/04/18 13:28:56:057 State of server report:
+- Uptime: 5d 18h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 32742k used, 121856k total, 349696k max
+2019/04/18 13:43:56:057 State of server report:
+- Uptime: 5d 18h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 35262k used, 121856k total, 349696k max
+2019/04/18 13:58:56:057 State of server report:
+- Uptime: 5d 19h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 37787k used, 121856k total, 349696k max
+2019/04/18 14:13:56:057 State of server report:
+- Uptime: 5d 19h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 40373k used, 121856k total, 349696k max
+2019/04/18 14:28:56:057 State of server report:
+- Uptime: 5d 19h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 43282k used, 121856k total, 349696k max
+2019/04/18 14:43:56:057 State of server report:
+- Uptime: 5d 19h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 45597k used, 121856k total, 349696k max
+2019/04/18 14:58:56:057 State of server report:
+- Uptime: 5d 20h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 48118k used, 121856k total, 349696k max
+2019/04/18 15:13:56:057 State of server report:
+- Uptime: 5d 20h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 50806k used, 121856k total, 349696k max
+2019/04/18 15:28:56:057 State of server report:
+- Uptime: 5d 20h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 53391k used, 121856k total, 349696k max
+2019/04/18 15:43:56:057 State of server report:
+- Uptime: 5d 20h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 55912k used, 121856k total, 349696k max
+2019/04/18 15:58:56:058 State of server report:
+- Uptime: 5d 21h 0m 5s 766m
+- Report period: 15m 1m
+- Memory: 58492k used, 121856k total, 349696k max
+2019/04/18 16:13:56:057 State of server report:
+- Uptime: 5d 21h 15m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 61022k used, 121856k total, 349696k max
+2019/04/18 16:28:56:057 State of server report:
+- Uptime: 5d 21h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 63546k used, 121856k total, 349696k max
+2019/04/18 16:43:56:057 State of server report:
+- Uptime: 5d 21h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 66136k used, 121856k total, 349696k max
+2019/04/18 16:58:56:058 State of server report:
+- Uptime: 5d 22h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 68656k used, 121856k total, 349696k max
+2019/04/18 17:13:56:057 State of server report:
+- Uptime: 5d 22h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 71262k used, 121856k total, 349696k max
+2019/04/18 17:28:56:057 State of server report:
+- Uptime: 5d 22h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 73782k used, 121856k total, 349696k max
+2019/04/18 17:43:56:057 State of server report:
+- Uptime: 5d 22h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 31127k used, 119808k total, 349696k max
+2019/04/18 17:58:56:057 State of server report:
+- Uptime: 5d 23h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 33738k used, 119808k total, 349696k max
+2019/04/18 18:13:56:057 State of server report:
+- Uptime: 5d 23h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 36395k used, 119808k total, 349696k max
+2019/04/18 18:28:56:057 State of server report:
+- Uptime: 5d 23h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 39006k used, 119808k total, 349696k max
+2019/04/18 18:43:56:057 State of server report:
+- Uptime: 5d 23h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 41366k used, 119808k total, 349696k max
+2019/04/18 18:58:56:058 State of server report:
+- Uptime: 6d 0h 0m 5s 766m
+- Report period: 15m 1m
+- Memory: 43978k used, 119808k total, 349696k max
+2019/04/18 19:13:56:057 State of server report:
+- Uptime: 6d 0h 15m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 46766k used, 119808k total, 349696k max
+2019/04/18 19:28:56:058 State of server report:
+- Uptime: 6d 0h 30m 5s 766m
+- Report period: 15m 1m
+- Memory: 49076k used, 119808k total, 349696k max
+2019/04/18 19:43:56:058 State of server report:
+- Uptime: 6d 0h 45m 5s 766m
+- Report period: 15m 0m
+- Memory: 51729k used, 119808k total, 349696k max
+2019/04/18 19:58:56:057 State of server report:
+- Uptime: 6d 1h 0m 5s 765m
+- Report period: 14m 59s 999m
+- Memory: 54344k used, 119808k total, 349696k max
+2019/04/18 20:13:56:057 State of server report:
+- Uptime: 6d 1h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 57001k used, 119808k total, 349696k max
+2019/04/18 20:28:56:057 State of server report:
+- Uptime: 6d 1h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 59257k used, 119808k total, 349696k max
+2019/04/18 20:43:56:057 State of server report:
+- Uptime: 6d 1h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 61580k used, 119808k total, 349696k max
+2019/04/18 20:58:56:057 State of server report:
+- Uptime: 6d 2h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 64225k used, 119808k total, 349696k max
+2019/04/18 21:13:56:057 State of server report:
+- Uptime: 6d 2h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 70512k used, 119808k total, 349696k max
+2019/04/18 21:28:56:057 State of server report:
+- Uptime: 6d 2h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 76103k used, 119808k total, 349696k max
+2019/04/18 21:43:56:057 State of server report:
+- Uptime: 6d 2h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 36583k used, 120832k total, 349696k max
+2019/04/18 21:58:56:057 State of server report:
+- Uptime: 6d 3h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 42822k used, 120832k total, 349696k max
+2019/04/18 22:13:56:057 State of server report:
+- Uptime: 6d 3h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 49294k used, 120832k total, 349696k max
+2019/04/18 22:28:56:057 State of server report:
+- Uptime: 6d 3h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 51563k used, 120832k total, 349696k max
+2019/04/18 22:43:56:057 State of server report:
+- Uptime: 6d 3h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 54182k used, 120832k total, 349696k max
+2019/04/18 22:58:56:057 State of server report:
+- Uptime: 6d 4h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 56736k used, 120832k total, 349696k max
+2019/04/18 23:13:56:057 State of server report:
+- Uptime: 6d 4h 15m 5s 765m
+- Report period: 15m 0m
+- Memory: 59353k used, 120832k total, 349696k max
+2019/04/18 23:28:56:057 State of server report:
+- Uptime: 6d 4h 30m 5s 765m
+- Report period: 15m 0m
+- Memory: 61902k used, 120832k total, 349696k max
+2019/04/18 23:43:56:057 State of server report:
+- Uptime: 6d 4h 45m 5s 765m
+- Report period: 15m 0m
+- Memory: 64464k used, 120832k total, 349696k max
+2019/04/18 23:58:56:057 State of server report:
+- Uptime: 6d 5h 0m 5s 765m
+- Report period: 15m 0m
+- Memory: 66802k used, 120832k total, 349696k max
+2019/04/19 00:00:00:001 log_closed

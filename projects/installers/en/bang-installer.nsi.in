@@ -1,0 +1,23 @@
+;
+; $Id$
+;
+; Bang! Howdy Installer for Windows x86
+
+  !define LOCALE "en"
+  !define NAME "@client_title@"
+  !define INSTALL_DIR "@client_ident@"
+  !define HOST "@root_url@"
+  !ifndef OUTFILENAME
+    !define OUTFILENAME "bang-install.exe"
+  !endif
+
+  ; comment this out to enable the code that automatically downloads
+  ; the JVM from the web and installs it
+  ; !define BUNDLE_JVM true
+
+  !include "..\data\installer-common.nsi"
+
+Section "Extra" ExtraStuff
+  ; add the size of the uncompressed and compressed art and code
+  AddSize 100000
+SectionEnd

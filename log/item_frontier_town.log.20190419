@@ -1,0 +1,14 @@
+2019/04/19 00:00:00:001 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 02:08:50:750 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 02:12:30:676 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 02:12:39:517 log_closed
+2019/04/19 02:15:31:797 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 02:16:38:354 item_created id:766 oid:20 type:com.threerings.bang.data.Article
+2019/04/19 02:16:38:379 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/19 21:13:11:276 log_closed
+2019/04/19 21:14:20:925 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 21:26:27:800 log_closed
+2019/04/19 21:27:57:179 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/19 22:25:04:545 log_closed
+2019/04/19 22:25:31:928 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/20 00:00:00:000 log_closed

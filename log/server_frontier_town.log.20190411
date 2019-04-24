@@ -1,0 +1,39 @@
+2019/04/11 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/11 10:31:48:429 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 10:45:01:980 session_end 17 ctime:794 node:frontier_town
+2019/04/11 11:47:00:303 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/11 11:47:25:816 session_end 3 ctime:26 node:frontier_town
+2019/04/11 12:08:11:968 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 12:08:20:514 session_end 17 ctime:9 node:frontier_town
+2019/04/11 12:17:58:421 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/11 12:18:31:155 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 12:26:31:405 game_ended t:398 g:SALOON s:lg ts:4 r:true a:true 3:@:1:110:none,17:@:0:154:UNITS_KILLED_1
+2019/04/11 12:32:11:394 game_ended t:310 g:SALOON s:cr ts:4 r:true a:true 3:@:1:110:none,17:@:0:154:HIGHEST_POINTS_1
+2019/04/11 12:32:50:062 session_end 3 ctime:892 node:frontier_town
+2019/04/11 12:34:04:352 session_end 17 ctime:933 node:frontier_town
+2019/04/11 13:10:43:497 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 13:16:42:667 session_end 17 ctime:359 node:frontier_town
+2019/04/11 17:24:46:713 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 17:25:02:323 session_end 17 ctime:16 node:frontier_town
+2019/04/11 17:25:26:730 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 17:26:47:900 session_end 17 ctime:81 node:frontier_town
+2019/04/11 18:32:28:896 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/11 18:33:50:545 session_end 2 ctime:82 node:frontier_town
+2019/04/11 20:36:45:800 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/11 20:36:57:515 session_end 3 ctime:12 node:frontier_town
+2019/04/11 20:37:21:821 session_start 3 ip:/68.108.166.122 id:Ceccc089779c4a022f21b07125fac36c5 node:frontier_town sid:2
+2019/04/11 20:37:31:213 session_end 3 ctime:9 node:frontier_town
+2019/04/11 20:51:55:004 session_start 3 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/11 20:52:41:799 session_end 3 ctime:47 node:frontier_town
+2019/04/11 21:02:45:248 session_start 3 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/11 21:02:53:117 session_end 3 ctime:8 node:frontier_town
+2019/04/11 21:06:51:454 session_start 3 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/11 21:06:57:058 session_end 3 ctime:6 node:frontier_town
+2019/04/11 21:47:12:901 session_start 17 ip:/190.74.30.239 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/11 21:47:25:939 session_start 15 ip:/81.154.168.41 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:frontier_town sid:2
+2019/04/11 21:54:16:607 game_ended t:369 g:SALOON s:cr ts:4 r:true a:true 17:@:0:154:CONSEC_WINS_1,15:@:1:115:GAMES_PLAYED_2
+2019/04/11 22:02:32:026 game_ended t:438 g:SALOON s:lg ts:4 r:true a:true 17:@:0:154:CATTLE_RUSTLED_1,15:@:1:115:DISTANCE_MOVED_1
+2019/04/11 22:09:04:836 game_ended t:363 g:SALOON s:cr ts:4 r:true a:true 15:@:1:115:STEADS_DESTROYED_1,17:@:0:154:GAMES_PLAYED_2
+2019/04/11 22:09:11:914 session_end 15 ctime:1306 node:frontier_town
+2019/04/11 22:09:42:496 session_end 17 ctime:1350 node:frontier_town
+2019/04/12 00:00:00:000 log_closed

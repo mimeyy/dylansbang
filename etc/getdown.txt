@@ -1,0 +1,104 @@
+#
+# $Id: getdown.txt 19918 2005-03-23 20:44:52Z mdb $
+#
+# Bang! development client deployment descriptor
+
+# General information
+${version_line}
+${appbase_line}
+
+# Configure the update UI
+ui.name = Bang! Howdy
+ui.background_image = background.png
+ui.progress_image = progress.png
+ui.progress = 17, 321, 458, 22
+ui.progress_bar = 663333
+ui.progress_text = FFFFFF
+ui.status = 57, 245, 373, 68
+ui.status_text = FFFFFF
+
+# These all go into the classpath
+code = code/config.jar
+code = code/bang-config.jar
+code = code/bang-pcode.jar
+code = code/lwjgl.jar
+code = code/lwjgl_util.jar
+code = code/commons-beanutils.jar
+code = code/commons-digester.jar
+code = code/commons-logging.jar
+
+# Getdown doesn't go in the classpath; this is just for auto-upgrade
+resource = code/getdown-pro-new.jar
+
+# Our media resources
+resource = background.png
+resource = progress.png
+resource = rsrc/avatars/buckle/components.jar
+resource = rsrc/avatars/frontier_town/female/components.jar
+resource = rsrc/avatars/frontier_town/male/components.jar
+resource = rsrc/avatars/indian_post/female/components.jar
+resource = rsrc/avatars/indian_post/male/components.jar
+resource = rsrc/avatars/metadata.jar
+resource = rsrc/config/resource/manager.properties
+
+# Media resources that will be unpacked
+uresource = rsrc/bundle.jar
+uresource = rsrc/goods/bundle.jar
+uresource = rsrc/goods/frontier_town/bundle.jar
+uresource = rsrc/goods/indian_post/bundle.jar
+uresource = rsrc/sounds/effects/bundle.jar
+uresource = rsrc/sounds/feedback/bundle.jar
+uresource = rsrc/units/wreckage/bundle.jar
+
+# Frontier Town game resources
+uresource = rsrc/bonuses/frontier_town/bundle.jar
+uresource = rsrc/bounties/frontier_town/bundle.jar
+uresource = rsrc/cards/frontier_town/bundle.jar
+uresource = rsrc/effects/frontier_town/bundle.jar
+uresource = rsrc/extras/frontier_town/bundle.jar
+uresource = rsrc/props/frontier_town/bundle.jar
+uresource = rsrc/units/frontier_town/bundle.jar
+uresource = rsrc/sounds/music/frontier_town/bundle.jar
+
+# Define our auxiliary resource groups
+${auxgroups_line}
+
+# Indian Trading Post game resources
+indian_post.uresource = rsrc/bonuses/indian_post/bundle.jar
+indian_post.uresource = rsrc/bounties/indian_post/bundle.jar
+indian_post.uresource = rsrc/cards/indian_post/bundle.jar
+indian_post.uresource = rsrc/effects/indian_post/bundle.jar
+indian_post.uresource = rsrc/extras/indian_post/bundle.jar
+indian_post.uresource = rsrc/props/indian_post/bundle.jar
+indian_post.uresource = rsrc/units/indian_post/bundle.jar
+indian_post.uresource = rsrc/sounds/music/indian_post/bundle.jar
+
+# Boom Town game resources
+boom_town.uresource = rsrc/bonuses/boom_town/bundle.jar
+boom_town.uresource = rsrc/bounties/boom_town/bundle.jar
+boom_town.uresource = rsrc/cards/boom_town/bundle.jar
+boom_town.uresource = rsrc/effects/boom_town/bundle.jar
+boom_town.uresource = rsrc/extras/boom_town/bundle.jar
+boom_town.uresource = rsrc/props/boom_town/bundle.jar
+boom_town.uresource = rsrc/units/boom_town/bundle.jar
+boom_town.uresource = rsrc/sounds/music/boom_town/bundle.jar
+
+# Version requirements for our JVM
+java_version = 1050006
+java_location = [windows] /client/java_windows.jar
+java_location = [linux] /client/java_linux.jar
+
+# Parameters passed to the JVM
+jvmarg = -Xmx256M
+jvmarg = -Djava.library.path=%APPDIR%/native
+jvmarg = -Dappdir=%APPDIR%
+jvmarg = -Dresource_dir=%APPDIR%/rsrc
+
+# The main Java class
+class = com.threerings.bang.client.BangApp
+
+# Special configuration used when we run in editor mode
+editor.class = com.threerings.bang.editor.EditorApp
+
+# Special configuration used when we run in viewer mode
+viewer.class = com.threerings.jme.tools.ModelViewer

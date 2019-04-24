@@ -1,0 +1,20 @@
+2019/04/22 00:00:00:004 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/22 14:31:08:964 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/22 14:46:59:167 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/22 14:58:00:290 session_end 20 ctime:661 node:indian_post
+2019/04/22 15:07:50:075 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/22 15:13:49:563 game_ended t:336 g:BOUNTY bid:hard/potbelly_percy gid:one won:true 20:@:0:0:none
+2019/04/22 15:21:16:083 game_ended t:433 g:BOUNTY bid:hard/potbelly_percy gid:two won:true 20:@:0:0:none
+2019/04/22 15:28:13:271 game_ended t:402 g:BOUNTY bid:hard/potbelly_percy gid:three won:false 20:@:0:0:none
+2019/04/22 15:28:16:616 session_end 20 ctime:1227 node:indian_post
+2019/04/22 22:45:56:253 session_start 9 ip:/72.182.188.140 id:C042635c92b8ac72b2a83aa7b43a6aa40 node:indian_post sid:2
+2019/04/22 22:46:19:124 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/22 22:47:39:841 game_ended t:0 g:SALOON s:fg ts:2 r:true a:true 20:@:0:0:none,9:#:1:0:none
+2019/04/22 22:57:35:378 game_ended t:562 g:SALOON s:fg ts:2 r:true a:true 9:@:0:153:none,20:@:1:141:none
+2019/04/22 23:08:43:839 game_ended t:555 g:SALOON s:fg ts:2 r:true a:true 20:@:1:139:none,9:@:0:151:none
+2019/04/22 23:18:29:081 game_ended t:492 g:SALOON s:fg ts:2 r:true a:true 20:@:0:144:none,9:@:1:132:none
+2019/04/22 23:28:23:952 game_ended t:544 g:SALOON s:fg ts:2 r:true a:true 20:@:1:132:none,9:@:0:144:none
+2019/04/22 23:37:20:424 game_ended t:480 g:SALOON s:fg ts:2 r:true a:true 9:@:0:140:none,20:@:1:129:none
+2019/04/22 23:38:36:304 session_end 20 ctime:3137 node:indian_post
+2019/04/22 23:38:49:153 session_end 9 ctime:3173 node:indian_post
+2019/04/23 00:00:00:038 log_closed

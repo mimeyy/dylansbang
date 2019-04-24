@@ -1,0 +1,14 @@
+2019/04/19 00:00:00:000 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 02:08:51:055 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 02:12:25:725 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 02:12:33:980 log_closed
+2019/04/19 02:15:32:434 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 02:16:55:297 item_created id:767 oid:20 type:com.threerings.bang.data.Article
+2019/04/19 02:16:55:324 store_purchase 20 t:ArticleGood s:350 c:0
+2019/04/19 21:13:15:683 log_closed
+2019/04/19 21:14:22:401 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 21:26:29:106 log_closed
+2019/04/19 21:27:58:457 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/19 22:25:05:920 log_closed
+2019/04/19 22:25:33:203 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/20 00:00:00:002 log_closed

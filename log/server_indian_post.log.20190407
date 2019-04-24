@@ -1,0 +1,14 @@
+2019/04/07 00:00:00:003 log_opened /home/dylan/dylansbang/log/server_indian_post.log
+2019/04/07 13:09:28:128 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/07 13:11:50:034 session_end 20 ctime:142 node:indian_post
+2019/04/07 19:41:22:568 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/07 19:42:55:794 session_start 15 ip:/81.154.168.41 id:Cbdfd8ff1bd1ca86c9a6d0e25d64d1f4e node:indian_post sid:2
+2019/04/07 19:51:54:721 session_end 2 ctime:632 node:indian_post
+2019/04/07 20:06:21:849 session_start 10 ip:/102.177.145.46 id:C56d8d4cb7ddfe453dd785abf8972a84f node:indian_post sid:2
+2019/04/07 20:06:39:488 session_end 10 ctime:18 node:indian_post
+2019/04/07 20:15:39:875 session_end 15 ctime:1964 node:indian_post
+2019/04/07 20:16:16:501 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/07 20:16:28:996 session_end 2 ctime:13 node:indian_post
+2019/04/07 20:17:40:305 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:indian_post sid:2
+2019/04/07 20:18:16:723 session_end 2 ctime:37 node:indian_post
+2019/04/08 00:00:00:000 log_closed

@@ -1,0 +1,5 @@
+2019/04/16 00:00:00:027 log_opened /home/dylan/dylansbang/log/perf_frontier_town.log
+2019/04/16 00:29:15:264 client_perf u:2 b:2192d3eb8faffe008dcf4ee4cb4e7eb6 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 1, 40, 98, 119, 12)
+2019/04/16 00:35:02:898 client_perf u:2 b:b773cfeff0b4671556a6b381c16a5120 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 1, 2, 5, 140, 158, 22)
+2019/04/16 00:40:12:304 client_perf u:2 b:a3ba65297813f7443dc5d408e8d4bbb3 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 0, 0, 4, 116, 150, 21)
+2019/04/17 00:00:00:001 log_closed

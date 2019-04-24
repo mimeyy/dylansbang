@@ -1,0 +1,66 @@
+2019/04/02 00:00:00:012 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/02 12:52:35:518 item_created id:234 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:577 item_created id:235 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:637 item_created id:236 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:701 item_created id:237 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:762 item_created id:238 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:821 item_created id:239 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:883 item_created id:240 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:35:943 item_created id:241 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:003 item_created id:242 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:064 item_created id:243 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:125 item_created id:244 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:186 item_created id:245 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:247 item_created id:246 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:307 item_created id:247 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:368 item_created id:248 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:433 item_created id:249 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:492 item_created id:250 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:550 item_created id:251 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:610 item_created id:252 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:669 item_created id:253 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:728 item_created id:254 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:787 item_created id:255 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:847 item_created id:256 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:906 item_created id:257 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:36:932 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:38:223 item_created id:258 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:38:431 item_created id:259 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:38:492 item_created id:260 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:38:551 item_created id:261 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:38:660 item_created id:262 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:38:865 item_created id:263 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:39:118 item_created id:264 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:39:179 item_created id:265 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:39:435 item_created id:266 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:39:462 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:41:820 item_created id:267 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:42:140 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:43:671 item_created id:268 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:44:707 item_created id:269 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:44:831 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:47:427 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:50:413 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:52:52:583 item_created id:270 oid:3 type:com.threerings.bang.data.CardItem
+2019/04/02 12:52:53:354 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:53:12:760 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:53:18:717 store_purchase 3 t:CardPackGood s:520 c:0
+2019/04/02 12:54:06:197 item_created id:271 oid:2 type:com.threerings.bang.data.Badge
+2019/04/02 12:54:06:257 item_created id:272 oid:3 type:com.threerings.bang.data.Badge
+2019/04/02 13:04:28:972 item_created id:273 oid:2 type:com.threerings.bang.data.Badge
+2019/04/02 13:04:29:206 item_created id:274 oid:3 type:com.threerings.bang.data.Badge
+2019/04/02 13:07:06:316 item_created id:275 oid:2 type:com.threerings.bang.data.Badge
+2019/04/02 13:07:06:375 item_created id:276 oid:3 type:com.threerings.bang.data.Badge
+2019/04/02 13:16:26:621 item_created id:277 oid:2 type:com.threerings.bang.data.Badge
+2019/04/02 13:16:26:833 item_created id:278 oid:3 type:com.threerings.bang.data.Badge
+2019/04/02 13:26:41:958 item_created id:279 oid:2 type:com.threerings.bang.data.Badge
+2019/04/02 13:26:42:168 item_created id:280 oid:3 type:com.threerings.bang.data.Badge
+2019/04/03 00:16:55:535 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/03 00:53:09:901 item_deleted id:289 why:trashed
+2019/04/03 12:53:16:422 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/03 16:03:25:882 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/03 22:30:56:873 barber_purchase 4 t:Look s:0 c:0
+2019/04/03 23:30:26:743 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/03 23:38:17:648 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/03 23:44:01:268 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/04 00:00:00:000 log_closed

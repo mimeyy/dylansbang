@@ -1,0 +1,11 @@
+2019/04/09 00:00:00:001 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/09 11:19:04:723 log_opened /home/dylan/dylansbang/log/perf_indian_post.log
+2019/04/09 15:36:48:842 client_perf u:18 b:66755857bc9d05a566d7ead18c57fe21 d:Intel, Intel(R) HD Graphics 4000, 4.0.0 - Build 10.18.10.4358 h:(0, 0, 2, 2, 6, 457, 1)
+2019/04/09 15:36:49:007 client_perf u:20 b:66755857bc9d05a566d7ead18c57fe21 d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(1, 4, 10, 56, 143, 177, 77)
+2019/04/09 15:46:01:123 client_perf u:18 b:592820fb532f30a1521fe73851e6314b d:Intel, Intel(R) HD Graphics 4000, 4.0.0 - Build 10.18.10.4358 h:(0, 0, 0, 0, 2, 460, 3)
+2019/04/09 15:46:01:134 client_perf u:20 b:592820fb532f30a1521fe73851e6314b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 1, 8, 30, 159, 223, 44)
+2019/04/09 15:57:13:776 client_perf u:20 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(0, 8, 32, 187, 89, 193, 86)
+2019/04/09 15:57:13:793 client_perf u:18 b:6eb94d7aace0aabd7a86cc9d8146ca3b d:Intel, Intel(R) HD Graphics 4000, 4.0.0 - Build 10.18.10.4358 h:(0, 0, 0, 2, 12, 579, 2)
+2019/04/09 17:56:19:117 client_perf u:18 b:76c6809a6449622b704e32d0e25d617b d:Intel, Intel(R) HD Graphics 4000, 4.0.0 - Build 10.18.10.4358 h:(0, 0, 1, 0, 0, 287, 268)
+2019/04/09 17:56:19:145 client_perf u:20 b:76c6809a6449622b704e32d0e25d617b d:Intel, Intel(R) HD Graphics 4600, 4.3.0 - Build 20.19.15.4963 h:(4, 2, 6, 5, 10, 372, 155)
+2019/04/10 00:00:00:003 log_closed

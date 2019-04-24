@@ -1,0 +1,16 @@
+2019/04/03 00:00:00:018 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 00:07:21:477 item_created id:289 oid:3 type:com.threerings.bang.data.TrainTicket
+2019/04/03 00:07:21:505 station_purchase 3 t:Ticket s:0 c:0
+2019/04/03 00:11:30:661 log_closed
+2019/04/03 00:16:35:048 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 12:53:01:091 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 16:03:20:541 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 18:00:46:121 item_created id:290 oid:19 type:com.threerings.bang.data.BigShotItem
+2019/04/03 18:06:45:710 item_created id:291 oid:18 type:com.threerings.bang.data.BigShotItem
+2019/04/03 19:46:49:415 item_created id:292 oid:20 type:com.threerings.bang.data.BigShotItem
+2019/04/03 22:36:33:243 item_created id:293 oid:4 type:com.threerings.bang.data.Article
+2019/04/03 22:36:33:269 store_purchase 4 t:ArticleGood s:0 c:0
+2019/04/03 23:30:21:418 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 23:38:06:678 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/03 23:43:45:506 log_opened /home/dylan/dylansbang/log/item_frontier_town.log
+2019/04/04 00:00:00:000 log_closed

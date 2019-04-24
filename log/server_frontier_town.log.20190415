@@ -1,0 +1,23 @@
+2019/04/15 00:00:00:001 log_opened /home/dylan/dylansbang/log/server_frontier_town.log
+2019/04/15 15:23:43:877 session_start 20 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 15:25:00:136 session_end 20 ctime:76 node:frontier_town
+2019/04/15 15:25:18:423 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 15:30:57:336 game_ended t:315 g:BOUNTY bid:medium/gatlin_jim gid:jim_02 won:true 2:@:0:0:none,-2,-2
+2019/04/15 15:37:25:747 game_ended t:361 g:BOUNTY bid:medium/gatlin_jim gid:jim_01 won:true 2:@:0:0:none,-2
+2019/04/15 15:46:20:796 game_ended t:329 g:BOUNTY bid:hard/big_john gid:crush won:true 2:@:0:0:none,-2,-2
+2019/04/15 15:56:58:523 game_ended t:417 g:BOUNTY bid:medium/dynamite_daltry gid:thievery_run won:false 2:@:1:0:none,-2,-2,-2
+2019/04/15 16:04:35:136 game_ended t:404 g:BOUNTY bid:medium/dynamite_daltry gid:barrage won:false 2:@:0:0:none,-2,-2,-2
+2019/04/15 16:09:30:178 session_end 2 ctime:2652 node:frontier_town
+2019/04/15 18:50:58:130 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 18:51:10:783 session_end 2 ctime:13 node:frontier_town
+2019/04/15 18:51:39:294 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 19:01:09:220 session_end 2 ctime:570 node:frontier_town
+2019/04/15 21:48:15:996 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 21:54:12:351 game_ended t:310 g:BOUNTY bid:hard/sgt._rusty gid:gizmos won:false 2:@:0:0:none,-2
+2019/04/15 22:05:52:735 session_end 2 ctime:1057 node:frontier_town
+2019/04/15 22:35:29:440 session_start 2 ip:/24.177.167.52 id:C104693436af317a513e4700b0a7ee426 node:frontier_town sid:2
+2019/04/15 22:37:23:600 session_end 2 ctime:114 node:frontier_town
+2019/04/15 22:37:23:601 game_ended t:57 g:BOUNTY bid:test gid:test won:false 2:*:2:0:none,-2,-2
+2019/04/15 23:00:56:587 session_start 17 ip:/190.79.194.43 id:Cbe96f2bc4f549eea9b27a82179d051a7 node:frontier_town sid:2
+2019/04/15 23:01:09:036 session_end 17 ctime:13 node:frontier_town
+2019/04/16 00:00:00:025 log_closed

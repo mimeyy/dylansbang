@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Register</title>
+</head>
+
+<body>
+  <h3>Create a new account</h3>
+	<h4>Please use unique information not tied to anything else.</h2>
+<br>
+
+<table cellpadding="4" cellspacing="0" border="0">
+  <form method="POST" action="register.php">
+    <input type="hidden" name="action" value="register"/>
+    <input type="hidden" name="from" value="http://www.danghowdy.com/register"/>
+    <input type="hidden" name="showreg" value=""/>
+    <input type="hidden" name="affiliate" value=""/>
+	<input type="hidden" name="bdate" value="31"/>
+    <input type="hidden" name="bmonth" value="12"/>
+    <input type="hidden" name="byear" value="1978"/>
+	<input type="hidden" name="gender" value="1"/>
+  <tr><td colspan="2">
+      <span class="sans">Username:</span><br>
+      <input type="text" name="username" value="" maxlength="12"/></td>
+  </tr>
+
+  <tr><td colspan="2" class="small">
+      Usernames must be between 3 and 12 characters, and must consist only of letters, numbers, and '_'.</td></tr>
+
+  <tr><td><span class="sans">A secret password</span><br>
+      <input type="password" name="password" value="" maxlength="12"/></td>
+
+  <td><span class="sans">Confirm password</span><br>
+      <input type="password" name="pw_confirm" value="" maxlength="12"/></td></tr>
+
+  <tr><td colspan="2" class="small">
+      Passwords must be between 4 and 12 characters, and must consist only of letters and numbers.</td></tr>
+
+  <tr><td><span class="sans">Email address</span><br>
+      <input type="text" name="email" value="" maxlength="128" size="30"/></td>
+
+  <td><span class="sans">Confirm email</span><br>
+      <input type="text" name="email_confirm" value="" maxlength="128" size="30"/></td></tr>
+
+
+  <!--<tr><td><span class="sans">What year were you born?</span><br>
+      <input type="hidden" name="bdate" value="31"/>
+      <input type="hidden" name="bmonth" value="12"/>
+      <input type="text" name="byear" value="" size="4" maxlength="4"/></td>
+
+      <td><span class="sans">Gender:</span><br>
+      <input type="radio" name="gender" value="1"/>Cowgirl
+      <input type="radio" name="gender" value="2"/>Cowboy
+      </td></tr>
+  </tr> -->
+
+  <tr><td colspan="2" align="center">
+  <input type="submit" name="submitBtn" value="Create!"/></td></tr>
+
+  </form>
+</table>
+</body>
+</html>

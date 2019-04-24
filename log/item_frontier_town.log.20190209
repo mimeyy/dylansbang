@@ -1,0 +1,30 @@
+2019/02/09 17:43:35:368 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 17:44:24:150 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 17:44:44:197 log_closed
+2019/02/09 17:50:42:314 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 17:53:02:338 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 17:53:19:080 log_closed
+2019/02/09 18:01:05:829 log_closed
+2019/02/09 18:02:16:570 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:07:29:746 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:07:47:023 log_closed
+2019/02/09 18:08:22:546 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:11:03:793 log_closed
+2019/02/09 18:16:45:146 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:19:33:855 log_closed
+2019/02/09 18:30:05:315 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:34:45:503 item_created id:1 oid:1 type:com.threerings.bang.data.BigShotItem
+2019/02/09 18:35:25:294 item_created id:2 oid:1 type:com.threerings.bang.data.Article
+2019/02/09 18:45:17:102 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:45:37:122 log_closed
+2019/02/09 18:45:43:625 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 18:46:35:335 item_created id:3 oid:1 type:com.threerings.bang.data.TrainTicket
+2019/02/09 18:46:35:431 station_purchase 1 t:Ticket s:1000 c:0
+2019/02/09 19:06:46:834 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 19:15:03:934 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 19:15:21:001 log_closed
+2019/02/09 20:32:09:120 log_closed
+2019/02/09 20:32:56:759 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/09 20:41:53:484 log_closed
+2019/02/09 20:42:08:147 log_opened /Users/dylanrederer/bang-game-master/log/item_frontier_town.log
+2019/02/10 13:12:40:119 log_closed

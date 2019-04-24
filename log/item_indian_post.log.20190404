@@ -1,0 +1,28 @@
+2019/04/04 00:00:00:036 log_opened /home/dylan/dylansbang/log/item_indian_post.log
+2019/04/04 21:50:14:148 barber_purchase 15 t:Look s:2425 c:0
+2019/04/04 21:50:53:623 item_created id:296 oid:15 type:com.threerings.bang.data.BigShotItem
+2019/04/04 21:50:53:650 ranch_purchase 15 t:BigShot s:4000 c:0
+2019/04/04 21:51:30:248 item_created id:297 oid:15 type:com.threerings.bang.data.Article
+2019/04/04 21:51:30:275 store_purchase 15 t:ArticleGood s:1250 c:0
+2019/04/04 21:51:40:659 item_created id:298 oid:2 type:com.threerings.bang.data.Article
+2019/04/04 21:51:40:688 store_purchase 2 t:ArticleGood s:0 c:0
+2019/04/04 21:55:20:509 item_created id:303 oid:15 type:com.threerings.bang.data.BigShotItem
+2019/04/04 21:55:20:536 ranch_purchase 15 t:BigShot s:4000 c:0
+2019/04/04 21:55:28:186 item_created id:304 oid:15 type:com.threerings.bang.data.BigShotItem
+2019/04/04 21:55:28:216 ranch_purchase 15 t:BigShot s:4000 c:0
+2019/04/04 21:55:35:918 item_created id:305 oid:15 type:com.threerings.bang.data.BigShotItem
+2019/04/04 21:55:35:948 ranch_purchase 15 t:BigShot s:4000 c:0
+2019/04/04 21:55:48:427 item_created id:306 oid:15 type:com.threerings.bang.data.Purse
+2019/04/04 21:55:48:454 store_purchase 15 t:PurseGood s:3000 c:0
+2019/04/04 21:56:04:937 item_created id:307 oid:15 type:com.threerings.bang.data.Article
+2019/04/04 21:56:04:965 store_purchase 15 t:ArticleGood s:3250 c:0
+2019/04/04 21:57:25:341 item_created id:308 oid:15 type:com.threerings.bang.data.Article
+2019/04/04 21:57:25:369 store_purchase 15 t:ArticleGood s:1000 c:0
+2019/04/04 22:08:43:018 item_created id:330 oid:15 type:com.threerings.bang.data.Badge
+2019/04/04 22:19:33:191 item_created id:331 oid:2 type:com.threerings.bang.data.Badge
+2019/04/04 22:19:33:400 item_created id:332 oid:15 type:com.threerings.bang.data.Badge
+2019/04/04 22:27:41:226 item_created id:335 oid:15 type:com.threerings.bang.data.UnitPass
+2019/04/04 22:27:41:253 store_purchase 15 t:UnitPassGood s:1000 c:0
+2019/04/04 23:46:16:010 item_created id:339 oid:15 type:com.threerings.bang.data.Article
+2019/04/04 23:46:16:039 store_purchase 15 t:ArticleGood s:1200 c:0
+2019/04/05 00:00:00:000 log_closed
