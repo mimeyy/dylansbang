@@ -1,13 +1,21 @@
 # Welcome
 This repository is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
 It differs in the following ways, some of which might seem oddly specific because it was used in a private multiplayer setting:
+
 • Added 'indianserver.bin' which launches the ITP server; can be used in conjunction with FT's `bangserver.bin`
+
 • Chat whitelist disabled.
+
 • Age restriction disabled for testing.
+
 • Indian Trading Post is freely accessible.
+
 • FG bad board removal: Removed unfair boards from FG.
+
 • Bonus points in competitive matches are halved (10 --> 5)
+
 • Added card packs for Reinforcements in FT and Forgiven in ITP; lowered price of 13 and 52 card packs to keep them worth buying.
+
 
 ## Amendments
 In this space are amendments to Grey Havens' Readme: Ultimately, follow along with theirs (below) but 
@@ -35,9 +43,10 @@ indian_post.town_id = indian_post
 indian_post.server_host = localhost
 ```
 and 27
+
 ```server_secret = Is it secret? Is it safe?```
 
-& in `deployment.properties` 
+& in `deployment.properties`, 
 
 copy and paste this block into lines 12-21 (port 47625 for ITP worked for me):
 
