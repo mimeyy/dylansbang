@@ -1,3 +1,61 @@
+# Welcome
+This repository is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
+It differs in the following ways, some of which might seem oddly specific because it was used in a private multiplayer setting:
+• Added 'indianserver.bin' which launches the ITP server; can be used in conjunction with FT's `bangserver.bin`
+• Chat whitelist disabled.
+• Age restriction disabled for testing.
+• Indian Trading Post is freely accessible.
+• FG bad board removal: Removed unfair boards from FG.
+• Bonus points in competitive matches are halved (10 --> 5)
+• Added card packs for Reinforcements in FT and Forgiven in ITP; lowered price of 13 and 52 card packs to keep them worth buying.
+
+## Amendments
+In this space are amendments to Grey Havens' Readme: Ultimately, follow along with theirs (below) but 
+keep these amendments in mind.
+
+When editing `etc/server.properties`, on line 33 you will see this:
+```
+server_root = /export/bang
+```
+Change `/export/bang` to the full filepath of wherever you stuck your dylansbang folder, 
+mine for example is `/home/dylan/dylansbang`.
+
+Similarly, in `assets/build.gradle` you need the full filepaths in lines 90 & 91 here:
+```
+  ant.metabundle(actiondef: "/home/USER/dylansbang/assets/rsrc/avatars/actions.xml", 
+				 classdef: "/home/USER/dylansbang/assets/rsrc/avatars/classes.xml",
+```
+If you run 'gradle deploy' at this point and `assets/update_lists` is causing issues, you need to make the 
+script executable by running: ```chmod +x assets/update_lists```
+
+For a deployment that runs both the FT server and ITP server synchronously, make these changes to your `server.properties':
+Remove the #'s from in front of lines 13,14
+```
+indian_post.town_id = indian_post
+indian_post.server_host = localhost
+```
+and 27
+```server_secret = Is it secret? Is it safe?```
+
+& in `deployment.properties` 
+
+copy and paste this block into lines 12-21 (port 47625 for ITP worked for me):
+
+```
+server_ports = 47624, 47625
+
+#
+# The public hostname and ports for the various town lobby servers.
+
+frontier_town.server_host = localhost
+frontier_town.server_ports = 47624
+
+indian_post.server_host = localhost
+indian_post.server_ports = 47625
+```
+Then just run indianserver.bin in addition to bangserver.bin as instructed below.
+ 
+Everything below this point, including the license, was written by the good folks at Grey Havens.
 # Bang! Howdy Pardner
 
 Herein lies the source code to the game Bang! Howdy. This is a game that was created by Three Rings
