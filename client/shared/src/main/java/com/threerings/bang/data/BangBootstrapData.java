@@ -23,7 +23,7 @@ public class BangBootstrapData extends BootstrapData
     public int storeOid;
 	
 	/** The room oid of the BANK. */
-    public int bankOid;
+    //public int bankOid;
 
     /** The room oid of the Ranch. */
     public int ranchOid;
@@ -49,7 +49,7 @@ public class BangBootstrapData extends BootstrapData
     public int getPlaceOid (Shop shop)
     {
         switch (shop) {
-		case BANK: return bankOid;
+		//case BANK: return bankOid;
         case BARBER: return barberOid;
         case HIDEOUT: return hideoutOid;
         case OFFICE: return officeOid;
