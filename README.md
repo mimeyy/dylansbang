@@ -36,7 +36,7 @@ Similarly, in `assets/build.gradle` you need the full filepaths in lines 90 & 91
 If you run 'gradle deploy' at this point and `assets/update_lists` is causing issues, you need to make the 
 script executable by running: ```chmod +x assets/update_lists```
 
-For a deployment that runs both the FT server and ITP server synchronously, make these changes to your `server.properties':
+For a deployment that runs both the FT server and ITP server synchronously, make these changes to your `server.properties`:
 Remove the #'s from in front of lines 13,14
 ```
 indian_post.town_id = indian_post
