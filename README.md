@@ -1,5 +1,5 @@
 # Welcome
-This fork is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
+This repo is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
 It differs in the following ways, some of which might seem oddly specific because it was used in a private multiplayer setting:
 
 • Added `indianserver.bin` which launches the ITP server; can be used in conjunction with FT's `bangserver.bin`
