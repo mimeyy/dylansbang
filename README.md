@@ -1,5 +1,5 @@
 # Welcome
-This repository is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
+This fork is a modified version of Grey Havens' bang-game(https://github.com/greyhavens/bang-game).
 It differs in the following ways, some of which might seem oddly specific because it was used in a private multiplayer setting:
 
 • Added `indianserver.bin` which launches the ITP server; can be used in conjunction with FT's `bangserver.bin`
@@ -10,11 +10,11 @@ It differs in the following ways, some of which might seem oddly specific becaus
 
 • Indian Trading Post is freely accessible.
 
-• FG bad board removal: Removed unfair boards from FG.
+• FG bad board removal: Removed unbalanced boards from FG.
 
 • Bonus points in competitive matches are halved (10 --> 5)
 
-• Added card packs for Reinforcements in FT and Forgiven in ITP; lowered price of 13 and 52 card packs to keep them worth buying.
+• Added some card packs to the general store; lowered price of 13 and 52 card packs to keep them worth buying.
 
 
 ## Amendments
@@ -25,15 +25,15 @@ When editing `etc/server.properties`, on line 33 you will see this:
 ```
 server_root = /export/bang
 ```
-Change `/export/bang` to the full filepath of wherever you stuck your dylansbang folder, 
-mine for example is `/home/dylan/dylansbang`.
+Change `/export/bang` to the full filepath of wherever you stuck your bang-game folder, 
+mine for example is `/home/dylan/bang-game`.
 
 Similarly, in `assets/build.gradle` you need the full filepaths in lines 90 & 91 here:
 ```
-  ant.metabundle(actiondef: "/home/USER/dylansbang/assets/rsrc/avatars/actions.xml", 
-				 classdef: "/home/USER/dylansbang/assets/rsrc/avatars/classes.xml",
+  ant.metabundle(actiondef: "/home/USER/bang-game/assets/rsrc/avatars/actions.xml", 
+				 classdef: "/home/USER/bang-game/assets/rsrc/avatars/classes.xml",
 ```
-If you run 'gradle deploy' at this point and `assets/update_lists` is causing issues, you need to make the 
+If you run 'gradle deploy' at this point and `assets/update_lists` or another script is giving you a permission denied error, you need to make the 
 script executable by running: ```chmod +x assets/update_lists```
 
 For a deployment that runs both the FT server and ITP server synchronously, make these changes to your `server.properties`:
@@ -62,7 +62,8 @@ frontier_town.server_ports = 47624
 indian_post.server_host = localhost
 indian_post.server_ports = 47625
 ```
-Then just run indianserver.bin in addition to bangserver.bin as instructed below.
+Then just run indianserver.bin in addition to bangserver.bin as instructed below. 
+(You can run `./bangserver | ./indianserver` to run them in the same instance)
  
 Everything below this point, including the license, was written by the good folks at Grey Havens.
 # Bang! Howdy Pardner
