@@ -25,13 +25,13 @@ When editing `etc/server.properties`, on line 33 you will see this:
 ```
 server_root = /export/bang
 ```
-Change `/export/bang` to the full filepath of wherever you stuck your bang-game folder, 
-mine for example is `/home/dylan/bang-game`.
+Change `/export/bang` to the full filepath of wherever you stuck your dylansbang folder, 
+mine for example is `/home/dylan/dylansbang`.
 
 Similarly, in `assets/build.gradle` you need the full filepaths in lines 90 & 91 here:
 ```
-  ant.metabundle(actiondef: "/home/USER/bang-game/assets/rsrc/avatars/actions.xml", 
-				 classdef: "/home/USER/bang-game/assets/rsrc/avatars/classes.xml",
+  ant.metabundle(actiondef: "/home/USER/dylansbang/assets/rsrc/avatars/actions.xml", 
+				 classdef: "/home/USER/dylansbang/assets/rsrc/avatars/classes.xml",
 ```
 If you run 'gradle deploy' at this point and `assets/update_lists` or another script is giving you a permission denied error, you need to make the 
 script executable by running: ```chmod +x assets/update_lists```
